@@ -5,11 +5,11 @@ permalink: /education/
 author_profile: true
 ---
 
-University of Toronto
+### University of Toronto
 ======
 * H.B.Sc. in Physics, 2016
 
-Experience
+### Experience
 ======
 * Summer 2015 - April 2016: Undergraduate Research Assistant
   * University of Toronto
