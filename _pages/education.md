@@ -1,6 +1,7 @@
 ---
 layout: archive
-permalink: /cv/
+title: "Education"
+permalink: /education/
 author_profile: true
 ---
 
