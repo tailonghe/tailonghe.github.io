@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 1. Weak-constraint 4D-Var data assimilation for MOPITT CO retrievals using GEOS-Chem
 Tai-Long He, D. B. A. Jones, M. Keller, Z. Jiang, and D. Henze
 in prep
