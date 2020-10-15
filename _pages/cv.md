@@ -1,19 +1,8 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
-Education
+University of Toronto
 ======
-* H.B.Sc. in Physics, University of Toronto, 2016
+* H.B.Sc. in Physics, 2016
 
-Work experience
+Experience
 ======
 * Summer 2015 - April 2016: Undergraduate Research Assistant
   * University of Toronto
