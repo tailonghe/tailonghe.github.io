@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+* ### Decadal trends in the Southern Ocean carbon storage <br />
+Varvara E. Zemskova, Zirui Wan, **Tai-Long He**, Nicolas Grisouard<br />
+In prep. <br />
+
 * ### Recurrent U-net: Deep learning to predict daily summertime ozone in the United States <br />
 **Tai-Long He**, Dylan B. A. Jones, Binxuan Huang, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E. Charlie White, Helen M. Worden, John R. Worden <br />
 Under review, 2020. <br />
