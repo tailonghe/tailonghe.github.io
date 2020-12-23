@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th year PhD candidate in the Atmospheric Physics and Composition Modelling Group at University of Toronto. My project focuses on the development and implementation of advanced data assimilation systems in atmospheric science, including:
+I'm a 5th year PhD student in the Atmospheric Physics and Composition Modelling Group at University of Toronto. My project focuses on the application of advanced data assimilation systems in climate change, air quality, and carbon cycle, including:
 
 * Weak-constraint four-dimensional variational (4D-Var) systems.
 * Ensemble Kalman Filter (EnKF).
