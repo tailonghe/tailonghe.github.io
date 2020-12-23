@@ -12,5 +12,5 @@ I'm a 4th year PhD candidate in the Atmospheric Physics and Composition Modellin
 
 * Weak-constraint four-dimensional variational (4D-Var) systems.
 * Ensemble Kalman Filter (EnKF).
-* Convolutional and recurrent neural networks. Deep and reinforcement learning.
+* Deep learning. Convolutional and recurrent neural networks.
 
