@@ -5,15 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+* ### Optimization of the relaxed Arakawa-Schubert convective system: towards improved convective transport in GEOS-Chem <br />
+**Tai-Long He**, Dylan B. A. Jones, Hongyu Liu, Bo Zhang,  Andrea M. Molod <br />
+in prep. 
 
 * ### Decadal trends in the Southern Ocean carbon storage <br />
 Varvara E. Zemskova, Zirui Wan, **Tai-Long He**, Nicolas Grisouard<br />
-In prep. <br />
+in prep. 
 
 * ### Recurrent U-net: Deep learning to predict daily summertime ozone in the United States <br />
 **Tai-Long He**, Dylan B. A. Jones, Binxuan Huang, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E. Charlie White, Helen M. Worden, John R. Worden <br />
 [arXiv](https://arxiv.org/abs/1908.05841) <br />
-Under review, 2020. 
+under review, 2020. 
 
 
 * ### The Environment and Climate Change Canada Carbon Assimilation System (EC-CAS v1.0) : demonstration with simulated CO observations <br />
@@ -26,7 +29,7 @@ Hedelius, J. K., **He, T.-L.**, Jones, D. B. A., Baier, B. C., Buchholz, R. R., 
 
 * ### Weak-constraint 4D-Var data assimilation for MOPITT CO retrievals using GEOS-Chem <br />
 **Tai-Long He**, D. B. A. Jones, M. Keller, Z. Jiang, and D. Henze <br />
-In prep.
+in prep.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
