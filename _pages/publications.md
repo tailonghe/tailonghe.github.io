@@ -10,7 +10,8 @@ author_profile: true
 in prep. 
 
 * ### Decadal trends in the Southern Ocean carbon storage <br />
-Varvara E. Zemskova, Zirui Wan, **Tai-Long He**, Nicolas Grisouard<br />
+Varvara E. Zemskova, **Tai-Long He**, Zirui Wan, Nicolas Grisouard<br />
+[GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon) <br />
 in prep. 
 
 * ### Recurrent U-net: Deep learning to predict daily summertime ozone in the United States <br />
