@@ -11,8 +11,9 @@ in prep.
 
 * ### Decadal trends in the Southern Ocean carbon storage <br />
 Varvara E. Zemskova, **Tai-Long He**, Zirui Wan, Nicolas Grisouard<br />
+[EarthArXiv](https://doi.org/10.31223/X52603)<br />
 [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon) <br />
-in prep. 
+under review, 2021. 
 
 * ### Recurrent U-net: Deep learning to predict daily summertime ozone in the United States <br />
 **Tai-Long He**, Dylan B. A. Jones, Binxuan Huang, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E. Charlie White, Helen M. Worden, John R. Worden <br />
