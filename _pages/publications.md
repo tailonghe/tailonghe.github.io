@@ -10,7 +10,8 @@ author_profile: true
 in prep. 
 
 * ### Decadal trends in the Southern Ocean carbon storage <br />
-Varvara E. Zemskova, **Tai-Long He**, Zirui Wan, Nicolas Grisouard<br />
+Varvara E. Zemskova<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zirui Wan, Nicolas Grisouard<br />
+**<sup>#</sup> equally contributed first author**<br />
 [EarthArXiv](https://doi.org/10.31223/X52603)<br />
 [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon) <br />
 under review, 2021. 
