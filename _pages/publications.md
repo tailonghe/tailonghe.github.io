@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* ### Deep learning for Chinese NOx emission inversion and the integration of in situ observations: a case study on the COVID-19 pandemic <br />
+**Tai-Long He**, Dylan B. A. Jones, Kazuyuki Miyazaki, Kevin W. Bowman, Zhe Jiang, Rui Li, Xiaokang Chen, Yuxiang Zhang <br />
+in prep. 
+
 * ### Optimization of the relaxed Arakawa-Schubert convective system: towards improved convective transport in GEOS-Chem <br />
 **Tai-Long He**, Dylan B. A. Jones, Hongyu Liu, Bo Zhang,  Andrea M. Molod <br />
 in prep. 
@@ -18,7 +22,7 @@ under review, 2021.
 
 * ### Recurrent U-net: Deep learning to predict daily summertime ozone in the United States <br />
 **Tai-Long He**, Dylan B. A. Jones, Binxuan Huang, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E. Charlie White, Helen M. Worden, John R. Worden <br />
-[arXiv](https://arxiv.org/abs/1908.05841) <br />
+[arXiv](https://arxiv.org/abs/1908.05841); [ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507761.1) <br />
 under review, 2020. 
 
 
@@ -34,6 +38,8 @@ Hedelius, J. K., **He, T.-L.**, Jones, D. B. A., Baier, B. C., Buchholz, R. R., 
 **Tai-Long He**, D. B. A. Jones, M. Keller, Z. Jiang, and D. Henze <br />
 in prep.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+
+
+<!--- <h3><em>You can also find my articles on <u><a href="https://scholar.google.com/citations?user=rfFLRuQAAAAJ&hl=en">my Google Scholar profile</a>.</u></em></h3> --->
+
