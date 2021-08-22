@@ -9,7 +9,7 @@ author_profile: true
 **Tai-Long He**, Dylan B. A. Jones, Kazuyuki Miyazaki, Kevin W. Bowman, Zhe Jiang, Rui Li, Xiaokang Chen, Yuxiang Zhang <br />
 in prep. 
 
-* ### Optimization of the relaxed Arakawa-Schubert convective system: towards improved convective transport in GEOS-Chem <br />
+* ### Impacts on transport in GEOS-Chem version 12.8.2 of an online relaxed Arakawa-Shubert convection scheme <br />
 **Tai-Long He**, Dylan B. A. Jones, Hongyu Liu, Bo Zhang,  Andrea M. Molod <br />
 in prep. 
 
@@ -20,7 +20,7 @@ Varvara E. Zemskova<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zirui Wan, Nicolas
 [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon) <br />
 under review, 2021. 
 
-* ### Recurrent U-net: Deep learning to predict daily summertime ozone in the United States <br />
+* ### Deep learning to evaluate US NOx emissions using surface ozone predictions <br />
 **Tai-Long He**, Dylan B. A. Jones, Binxuan Huang, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E. Charlie White, Helen M. Worden, John R. Worden <br />
 [arXiv](https://arxiv.org/abs/1908.05841); [ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507761.1) <br />
 under review, 2020. 
