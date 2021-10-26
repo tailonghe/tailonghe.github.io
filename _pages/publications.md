@@ -5,13 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+* ### Deep learning and Kalman Filter for carbon monoxide in China <br />
+Weichao Han<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zhaojun Tang, Min Wang, Zhe Jiang, Dylan B. A. Jones <br />
+**<sup>#</sup> equally contributed first author**<br />
+under prep. 
+
 * ### Deep learning for Chinese NOx emission inversion and the integration of in situ observations: a case study on the COVID-19 pandemic <br />
 **Tai-Long He**, Dylan B. A. Jones, Kazuyuki Miyazaki, Kevin W. Bowman, Zhe Jiang, Rui Li, Xiaokang Chen, Yuxiang Zhang <br />
-in prep. 
+under prep. 
 
 * ### Impacts on transport in GEOS-Chem version 12.8.2 of an online relaxed Arakawa-Shubert convection scheme <br />
 **Tai-Long He**, Dylan B. A. Jones, Hongyu Liu, Bo Zhang,  Andrea M. Molod <br />
-in prep. 
+under prep. 
 
 * ### Decadal trends in the Southern Ocean carbon storage <br />
 Varvara E. Zemskova<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zirui Wan, Nicolas Grisouard<br />
@@ -36,7 +41,7 @@ Hedelius, J. K., **He, T.-L.**, Jones, D. B. A., Baier, B. C., Buchholz, R. R., 
 
 * ### Weak-constraint 4D-Var data assimilation for MOPITT CO retrievals using GEOS-Chem <br />
 **Tai-Long He**, D. B. A. Jones, M. Keller, Z. Jiang, and D. Henze <br />
-in prep.
+under prep.
 
 
 
