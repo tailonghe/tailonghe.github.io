@@ -15,8 +15,8 @@ Weichao Han<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zhaojun Tang, Min Wang, Dy
 **<sup>#</sup> equally contributed first author**<br />
 submitted. 
 
-* ### Deep learning for Chinese NOx emission inversion and the integration of in situ observations: a case study on the COVID-19 pandemic <br />
-**Tai-Long He**, Dylan B. A. Jones, Kazuyuki Miyazaki, Kevin W. Bowman, Zhe Jiang, Rui Li, Xiaokang Chen, Yuxiang Zhang <br />
+* ### Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis <br />
+**Tai-Long He**, Dylan B. A. Jones, Kazuyuki Miyazaki, Kevin W. Bowman, Zhe Jiang, Xiaokang Chen, Rui Li, Yuxiang Zhang <br />
 under prep. 
 
 * ### Impacts on transport in GEOS-Chem version 12.8.2 of an online relaxed Arakawa-Shubert convection scheme <br />
