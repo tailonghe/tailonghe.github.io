@@ -5,10 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+* ### Artificial intelligence model reveals relocation of urban ozone pollution in China <br />
+Xiaokang Chen<sup>#</sup>, Min Wang<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zhe Jiang, Li Zhou, Yuqiang Zhang, Hong Liao, Jane Liu, Helen Worden, Dylan B. A. Jones, Yanan Shen, Dongyang Chen, Qinwen Tan<br />
+**<sup>#</sup> equally contributed first author**<br />
+under prep. 
+
 * ### Deep learning and Kalman Filter for carbon monoxide in China <br />
 Weichao Han<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zhaojun Tang, Min Wang, Zhe Jiang, Dylan B. A. Jones <br />
 **<sup>#</sup> equally contributed first author**<br />
-under prep. 
+submitted. 
 
 * ### Deep learning for Chinese NOx emission inversion and the integration of in situ observations: a case study on the COVID-19 pandemic <br />
 **Tai-Long He**, Dylan B. A. Jones, Kazuyuki Miyazaki, Kevin W. Bowman, Zhe Jiang, Rui Li, Xiaokang Chen, Yuxiang Zhang <br />
@@ -28,7 +33,7 @@ under review, 2021.
 * ### Deep learning to evaluate US NOx emissions using surface ozone predictions <br />
 **Tai-Long He**, Dylan B. A. Jones, Binxuan Huang, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E. Charlie White, Helen M. Worden, John R. Worden <br />
 [arXiv](https://arxiv.org/abs/1908.05841); [ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507761.1) <br />
-under review, 2020. 
+in press, 2020. 
 
 
 * ### The Environment and Climate Change Canada Carbon Assimilation System (EC-CAS v1.0) : demonstration with simulated CO observations <br />
