@@ -10,8 +10,8 @@ Xiaokang Chen<sup>#</sup>, Min Wang<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zh
 **<sup>#</sup> equally contributed first author**<br />
 under prep. 
 
-* ### Deep learning and Kalman Filter for carbon monoxide in China <br />
-Weichao Han<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zhaojun Tang, Min Wang, Zhe Jiang, Dylan B. A. Jones <br />
+* ### A comparative analysis for deep learning and Kalman Filter to predict CO in China <br />
+Weichao Han<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zhaojun Tang, Min Wang, Dylan B. A. Jones, Zhe Jiang <br />
 **<sup>#</sup> equally contributed first author**<br />
 submitted. 
 
