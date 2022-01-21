@@ -13,7 +13,7 @@ under prep.
 * ### A comparative analysis for deep learning and Kalman Filter to predict CO in China <br />
 Weichao Han<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zhaojun Tang, Min Wang, Dylan B. A. Jones, Zhe Jiang <br />
 **<sup>#</sup> equally contributed first author**<br />
-submitted. 
+accepted by Geoscientific Model Development Discussion.
 
 * ### Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis <br />
 **Tai-Long He**, Dylan B. A. Jones, Kazuyuki Miyazaki, Kevin W. Bowman, Zhe Jiang, Xiaokang Chen, Rui Li, Yuxiang Zhang <br />
@@ -33,7 +33,7 @@ under review, 2021.
 * ### Deep learning to evaluate US NOx emissions using surface ozone predictions <br />
 **Tai-Long He**, Dylan B. A. Jones, Binxuan Huang, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E. Charlie White, Helen M. Worden, John R. Worden <br />
 [arXiv](https://arxiv.org/abs/1908.05841); [ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507761.1) <br />
-in press, 2020. 
+accepted by Journal of Geophysical Research: Atmospheres, 2022. 
 
 
 * ### The Environment and Climate Change Canada Carbon Assimilation System (EC-CAS v1.0) : demonstration with simulated CO observations <br />
