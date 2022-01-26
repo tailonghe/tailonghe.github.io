@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a 5th year PhD student in the Atmospheric Physics and Composition Modelling Group at University of Toronto. My project focuses on the application of advanced data assimilation systems in climate change, air quality, and carbon cycle, including:
 
-* Weak-constraint four-dimensional variational (4D-Var) systems.
-* Ensemble Kalman Filter (EnKF).
 * Deep learning. Convolutional and recurrent neural networks.
+* Ensemble Kalman Filter (EnKF).
+* Weak-constraint four-dimensional variational (4D-Var) systems.
 
