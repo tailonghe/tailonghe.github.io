@@ -13,7 +13,7 @@ under prep.
 * ### A comparative analysis for deep learning and Kalman Filter to predict CO in China <br />
 Weichao Han<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zhaojun Tang, Min Wang, Dylan B. A. Jones, Zhe Jiang <br />
 **<sup>#</sup> equally contributed first author**<br />
-accepted by Geoscientific Model Development Discussion.
+[Geoscientific Model Development Discussion](https://gmd.copernicus.org/preprints/gmd-2021-420/).
 
 * ### Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis <br />
 **Tai-Long He**, Dylan B. A. Jones, Kazuyuki Miyazaki, Kevin W. Bowman, Zhe Jiang, Xiaokang Chen, Rui Li, Yuxiang Zhang <br />
