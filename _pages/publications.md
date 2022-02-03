@@ -27,7 +27,7 @@ author_profile: true
 
 * **Tai-Long He**, Dylan B. A. Jones, Binxuan Huang, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E. Charlie White, Helen M. Worden, John R. Worden, Deep learning to evaluate US NOx emissions using surface ozone predictions.<br />
 [arXiv](https://arxiv.org/abs/1908.05841); [ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507761.1) <br />
-accepted by <em>Journal of Geophysical Research: Atmospheres</em>, 2022. 
+[<em>Journal of Geophysical Research: Atmospheres</em>](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035597), 2022. 
 
 ### Before 2022
 
