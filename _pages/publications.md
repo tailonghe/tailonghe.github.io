@@ -6,36 +6,38 @@ author_profile: true
 ---
 
 
-* **Tai-Long He**, Dylan B. A. Jones, Kazuyuki Miyazaki, Kevin W. Bowman, Zhe Jiang, Xiaokang Chen, Rui Li, Yuxiang Zhang, Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis, in prep. 
+* **He, T.-L.**; Jones, D. B. A.; Miyazaki, K; Bowman, K. W.; Jiang, Z.; Chen, X; Li, R.; Zhang, Y. Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis, in prep. 
 
-* **Tai-Long He**, Dylan B. A. Jones, Hongyu Liu, Bo Zhang,  Andrea M. Molod, Impacts on transport in GEOS-Chem version 12.8.2 of an online relaxed Arakawa-Shubert convection scheme, in prep. 
+* **He, T.-L.**; Jones, D. B. A.; Liu, H.; Zhang, B.; Molod, A. M.. Impacts on transport in GEOS-Chem version 12.8.2 of an online relaxed Arakawa-Shubert convection scheme, in prep. 
 
-* **Tai-Long He**, D. B. A. Jones, M. Keller, Z. Jiang, and D. Henze, Weak-constraint 4D-Var data assimilation for MOPITT CO retrievals using GEOS-Chem, in prep. <br />
+* **He, T.-L.**; Jones, D. B. A.; Keller, M.; Jiang, Z.; Henze, D.. Weak-constraint 4D-Var data assimilation for MOPITT CO retrievals using GEOS-Chem, in prep. <br />
 
-* Xiaokang Chen<sup>#</sup>, Min Wang<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zhe Jiang, Li Zhou, Yuqiang Zhang, Hong Liao, Jane Liu, Helen Worden, Dylan B. A. Jones, Yanan Shen, Dongyang Chen, Qinwen Tan, Artificial intelligence model reveals relocation of urban ozone pollution in China, submitted. 
+* Lutsch, E.; Wunch, D.; Jones, D. B. A.; Clerbaux, C.; Hannigan, J. W.; **He, T.-L.**; Ortega, I.; Roche, S.; Strong, K.; Worden, H. M.. Can the data assimilation of CO from MOPITT or IASI constrain high-latitude wildfire emissions? A Case Study of the 2017 Canadian Wildfires, submitted. 
 
-* Varvara E. Zemskova<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zirui Wan, Nicolas Grisouard, Decadal trends in the Southern Ocean carbon storage, under review. <br />
+* Chen, X.<sup>#</sup>; Wang, M.<sup>#</sup>; **He, T.-L.<sup>#</sup>**, Jiang, Z.; Zhou, L.; Zhang, Y.; Liao, H.; Liu, J.; Worden, H. M.; Jones, D. B. A.; Shen, Y.; Chen, D.; Tan, Q.. Artificial intelligence model reveals relocation of urban ozone pollution in China, submitted. 
+
+* Zemskova, V. E.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Wan, Z.; Grisouard, N. Decadal trends in the Southern Ocean carbon storage, under review. <br />
 [EarthArXiv](https://doi.org/10.31223/X52603), [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon). 
 
 
 ### 2022 
 
 
-* Weichao Han<sup>#</sup>, **Tai-Long He<sup>#</sup>**, Zhaojun Tang, Min Wang, Dylan B. A. Jones, Zhe Jiang, A comparative analysis for deep learning and Kalman Filter to predict CO in China.<br /> 
-[<em>Geoscientific Model Development Discussion</em>](https://gmd.copernicus.org/preprints/gmd-2021-420/).<br />
+* Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Tang, Z.; Wang, M.; Jones, D. B. A.; Jiang, Z. [A comparative analysis for deep learning and Kalman Filter to predict CO in China](https://gmd.copernicus.org/preprints/gmd-2021-420/).<br /> 
+<em>Geoscientific Model Development Discussion</em>.<br />
 
 
-* **Tai-Long He**, Dylan B. A. Jones, Binxuan Huang, Yuyang Liu, Kazuyuki Miyazaki, Zhe Jiang, E. Charlie White, Helen M. Worden, John R. Worden, Deep learning to evaluate US NOx emissions using surface ozone predictions.<br />
+* **He, T.-L.**; Jones, D. B. A.; Huang, B.; Liu, Y.; Miyazaki, K.; Jiang, Z.; White, E. C.; Worden, H. M.; Worden, J. R.. [Deep learning to evaluate US NOx emissions using surface ozone predictions](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035597).<br />
 [arXiv](https://arxiv.org/abs/1908.05841); [ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507761.1) <br />
-[<em>Journal of Geophysical Research: Atmospheres</em>](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035597), 2022. 
+<em>Journal of Geophysical Research: Atmospheres</em>, 2022. 
 
 ### Before 2022
 
-* Khade, V., Polavarapu, S. M., Neish, M., Houtekamer, P. L., Jones, D. B. A., Baek, S.-J., **He, T.**, and Gravel, S., The Environment and Climate Change Canada Carbon Assimilation System (EC-CAS v1.0) : demonstration with simulated CO observations. <br />
-[<em>Geoscientific Model Development</em>](https://gmd.copernicus.org/preprints/gmd-2020-219/), 2020.
+* Khade, V.; Polavarapu, S. M.; Neish, M.; Houtekamer, P. L.; Jones, D. B. A.; Baek, S.-J.; **He, T.-L.**; Gravel, S.. [The Environment and Climate Change Canada Carbon Assimilation System (EC-CAS v1.0) : demonstration with simulated CO observations](https://gmd.copernicus.org/preprints/gmd-2020-219/). <br />
+<em>Geoscientific Model Development</em>, 2020.
 
-* Hedelius, J. K., **He, T.-L.**, Jones, D. B. A., Baier, B. C., Buchholz, R. R., De Mazière, M., Deutscher, N. M., Dubey, M. K., Feist, D. G., Griffith, D. W. T., Hase, F., Iraci, L. T., Jeseck, P., Kiel, M., Kivi, R., Liu, C., Morino, I., Notholt, J., Oh, Y.-S., Ohyama, H., Pollard, D. F., Rettinger, M., Roche, S., Roehl, C. M., Schneider, M., Shiomi, K., Strong, K., Sussmann, R., Sweeney, C., Té, Y., Uchino, O., Velazco, V. A., Wang, W., Warneke, T., Wennberg, P. O., Worden, H. M., and Wunch, D., Evaluation of MOPITT Version 7 joint TIR–NIR XCO retrievals with TCCON. <br />
-[<em>Atmospheric Measurement Techniques</em>](https://doi.org/10.5194/amt-12-5547-2019), 12, 5547–5572, 2019.
+* Hedelius, J. K.; **He, T.-L.**; Jones, D. B. A.; Baier, B. C.; Buchholz, R. R.; De Mazière, M.; Deutscher, N. M.; Dubey, M. K.; Feist, D. G.; Griffith, D. W. T.; Hase, F.; Iraci, L. T.; Jeseck, P.; Kiel, M.; Kivi, R.; Liu, C.; Morino, I.; Notholt, J.; Oh, Y.-S.; Ohyama, H.; Pollard, D. F.; Rettinger, M.; Roche, S.; Roehl, C. M.; Schneider, M.; Shiomi, K.; Strong, K.; Sussmann, R.; Sweeney, C.; Té, Y.; Uchino, O.; Velazco, V. A.; Wang, W.; Warneke, T.; Wennberg, P. O.; Worden, H. M.; Wunch, D.. [Evaluation of MOPITT Version 7 joint TIR–NIR XCO retrievals with TCCON](https://doi.org/10.5194/amt-12-5547-2019). <br />
+<em>Atmospheric Measurement Techniques</em>, 12, 5547–5572, 2019.
 
 
 
