@@ -12,12 +12,13 @@ author_profile: true
 
 * **He, T.-L.**; Jones, D. B. A.; Keller, M.; Jiang, Z.; Henze, D.. Weak-constraint 4D-Var data assimilation for MOPITT CO retrievals using GEOS-Chem, in prep. <br />
 
-* Lutsch, E.; Wunch, D.; Jones, D. B. A.; Clerbaux, C.; Hannigan, J. W.; **He, T.-L.**; Ortega, I.; Roche, S.; Strong, K.; Worden, H. M.. Can the data assimilation of CO from MOPITT or IASI constrain high-latitude wildfire emissions? A Case Study of the 2017 Canadian Wildfires, submitted. 
+* Lutsch, E.; Wunch, D.; Jones, D. B. A.; Clerbaux, C.; Hannigan, J. W.; **He, T.-L.**; Ortega, I.; Roche, S.; Strong, K.; Worden, H. M.. Can the data assimilation of CO from MOPITT or IASI constrain high-latitude wildfire emissions? A Case Study of the 2017 Canadian Wildfires, submitted.  <br />
+[preprint@ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10510875.1)
 
 * Chen, X.<sup>#</sup>; Wang, M.<sup>#</sup>; **He, T.-L.<sup>#</sup>**, Jiang, Z.; Zhou, L.; Zhang, Y.; Liao, H.; Liu, J.; Worden, H. M.; Jones, D. B. A.; Shen, Y.; Chen, D.; Tan, Q.. Artificial intelligence model reveals relocation of urban ozone pollution in China, submitted. 
 
 * Zemskova, V. E.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Wan, Z.; Grisouard, N. Decadal trends in the Southern Ocean carbon storage, under review. <br />
-[EarthArXiv](https://doi.org/10.31223/X52603), [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon). 
+[preprint@EarthArXiv](https://doi.org/10.31223/X52603), [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon). 
 
 
 ### 2022 
@@ -28,7 +29,7 @@ author_profile: true
 
 
 * **He, T.-L.**; Jones, D. B. A.; Huang, B.; Liu, Y.; Miyazaki, K.; Jiang, Z.; White, E. C.; Worden, H. M.; Worden, J. R.. [Deep learning to evaluate US NOx emissions using surface ozone predictions](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035597).<br />
-[arXiv](https://arxiv.org/abs/1908.05841); [ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507761.1) <br />
+[preprint@arXiv](https://arxiv.org/abs/1908.05841); [preprint@ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507761.1) <br />
 <em>Journal of Geophysical Research: Atmospheres</em>, 2022. 
 
 ### Before 2022
