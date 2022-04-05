@@ -6,11 +6,7 @@ author_profile: true
 ---
 
 
-* **He, T.-L.**; Jones, D. B. A.; Miyazaki, K; Bowman, K. W.; Jiang, Z.; Chen, X; Li, R.; Zhang, Y. Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis, in prep. 
-
-* **He, T.-L.**; Jones, D. B. A.; Liu, H.; Zhang, B.; Molod, A. M.. Impacts on transport in GEOS-Chem version 12.8.2 of an online relaxed Arakawa-Shubert convection scheme, in prep. 
-
-* **He, T.-L.**; Jones, D. B. A.; Keller, M.; Jiang, Z.; Henze, D.. Weak-constraint 4D-Var data assimilation for MOPITT CO retrievals using GEOS-Chem, in prep. <br />
+* **He, T.-L.**; Jones, D. B. A.; Miyazaki, K; Bowman, K. W.; Jiang, Z.; Chen, X; Li, R.; Zhang, Y. Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis, submitted. 
 
 * Lutsch, E.; Wunch, D.; Jones, D. B. A.; Clerbaux, C.; Hannigan, J. W.; **He, T.-L.**; Ortega, I.; Roche, S.; Strong, K.; Worden, H. M.. Can the data assimilation of CO from MOPITT or IASI constrain high-latitude wildfire emissions? A Case Study of the 2017 Canadian Wildfires, submitted.  <br />
 [preprint@ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10510875.1)
@@ -19,6 +15,10 @@ author_profile: true
 
 * Zemskova, V. E.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Wan, Z.; Grisouard, N. Decadal trends in the Southern Ocean carbon storage, under review. <br />
 [preprint@EarthArXiv](https://doi.org/10.31223/X52603), [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon). 
+
+* **He, T.-L.**; Jones, D. B. A.; Liu, H.; Zhang, B.; Molod, A. M.. Impacts on transport in GEOS-Chem version 12.8.2 of an online relaxed Arakawa-Shubert convection scheme, in prep. 
+
+* **He, T.-L.**; Jones, D. B. A.; Keller, M.; Jiang, Z.; Henze, D.. Weak-constraint 4D-Var data assimilation for MOPITT CO retrievals using GEOS-Chem, in prep. <br />
 
 
 ### 2022 
