@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th year PhD student in the Atmospheric Physics and Composition Modelling Group at University of Toronto. My project focuses on the application of advanced data assimilation systems in climate change, air quality, and carbon cycle, including:
+I'm a postdoc researcher at University of Washington. My project focuses on the application of machine learning and data assimilation in climate change, air quality, and carbon cycle, including:
 
-* Deep learning. Convolutional and recurrent neural networks.
+* Deep learning and other machine learning models.
 * Ensemble Kalman Filter (EnKF).
-* Weak-constraint four-dimensional variational (4D-Var) systems.
-
+* Four-dimensional variational (4D-Var) system.
