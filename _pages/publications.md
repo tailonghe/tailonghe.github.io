@@ -22,10 +22,10 @@ author_profile: true
 ### 2022 
 
 * **He, T.-L.**; Jones, D. B. A.; Miyazaki, K; Bowman, K. W.; Jiang, Z.; Chen, X; Li, R.; Zhang, Y. Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis. <br /> 
-<em>Atmospheric Chemistry and Physics Discussion</em>.<br />
+<em>Atmospheric Chemistry and Physics Discussion, 2022.</em>.<br />
 
 * Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Tang, Z.; Wang, M.; Jones, D. B. A.; Jiang, Z. [A comparative analysis for deep learning and Kalman Filter to predict CO in China](https://gmd.copernicus.org/preprints/gmd-2021-420/).<br /> 
-<em>Geoscientific Model Development Discussion</em>.<br />
+<em>Geoscientific Model Development Discussion, 2022.</em>.<br />
 
 
 * **He, T.-L.**; Jones, D. B. A.; Huang, B.; Liu, Y.; Miyazaki, K.; Jiang, Z.; White, E. C.; Worden, H. M.; Worden, J. R.. [Deep learning to evaluate US NOx emissions using surface ozone predictions](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035597).<br />
