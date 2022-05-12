@@ -11,15 +11,16 @@ author_profile: true
 
 * Chen, X.<sup>#</sup>; Wang, M.<sup>#</sup>; **He, T.-L.<sup>#</sup>**, Jiang, Z.; Zhou, L.; Zhang, Y.; Liao, H.; Liu, J.; Worden, H. M.; Jones, D. B. A.; Shen, Y.; Chen, D.; Tan, Q.. Artificial intelligence model reveals relocation of urban ozone pollution in China, submitted. 
 
-* Zemskova, V. E.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Wan, Z.; Grisouard, N. Decadal trends in the Southern Ocean carbon storage, under review. <br />
-[preprint@EarthArXiv](https://doi.org/10.31223/X52603), [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon). 
-
 * **He, T.-L.**; Jones, D. B. A.; Liu, H.; Zhang, B.; Molod, A. M.. Impacts on transport in GEOS-Chem version 12.8.2 of an online relaxed Arakawa-Shubert convection scheme, in prep. 
 
 * **He, T.-L.**; Jones, D. B. A.; Keller, M.; Jiang, Z.; Henze, D.. Weak-constraint 4D-Var data assimilation for MOPITT CO retrievals using GEOS-Chem, in prep. <br />
 
 
 ### 2022 
+
+* Zemskova, V. E.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Wan, Z.; Grisouard, N. Decadal trends in the Southern Ocean carbon storage. <br />
+[preprint@EarthArXiv](https://doi.org/10.31223/X52603), [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon). <br />
+<em>Nature Communications</em>, in press.<br />
 
 * **He, T.-L.**; Jones, D. B. A.; Miyazaki, K; Bowman, K. W.; Jiang, Z.; Chen, X; Li, R.; Zhang, Y. Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis. <br /> 
 <em>Atmospheric Chemistry and Physics Discussion</em>, 2022.<br />
