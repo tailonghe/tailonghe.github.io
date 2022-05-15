@@ -22,7 +22,7 @@ author_profile: true
 [preprint@EarthArXiv](https://doi.org/10.31223/X52603), [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon). <br />
 <em>Nature Communications</em>, in press.<br />
 
-* **He, T.-L.**; Jones, D. B. A.; Miyazaki, K; Bowman, K. W.; Jiang, Z.; Chen, X; Li, R.; Zhang, Y. Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis. <br /> 
+* **He, T.-L.**; Jones, D. B. A.; Miyazaki, K; Bowman, K. W.; Jiang, Z.; Chen, X; Li, R.; Zhang, Y. [Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis](https://acp.copernicus.org/preprints/acp-2022-251/). <br /> 
 <em>Atmospheric Chemistry and Physics Discussion</em>, 2022.<br />
 
 * Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Tang, Z.; Wang, M.; Jones, D. B. A.; Jiang, Z. [A comparative analysis for deep learning and Kalman Filter to predict CO in China](https://gmd.copernicus.org/preprints/gmd-2021-420/).<br /> 
