@@ -5,13 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Wang, M.; Chen, X.; **He, T.-L.**; Jones, D. B. A.; Liu, J.; Shen Y. Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021. <em>Science of the Total Environment</em>, in revision.<br />
 
-* Lutsch, E.; Wunch, D.; Jones, D. B. A.; Clerbaux, C.; Hannigan, J. W.; **He, T.-L.**; Ortega, I.; Roche, S.; Strong, K.; Worden, H. M.. Can the data assimilation of CO from MOPITT or IASI constrain high-latitude wildfire emissions? A Case Study of the 2017 Canadian Wildfires, submitted to JGR.  <br />
-[preprint@ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10510875.1)
+* Lutsch, E.; Wunch, D.; Jones, D. B. A.; Clerbaux, C.; Hannigan, J. W.; **He, T.-L.**; Ortega, I.; Roche, S.; Strong, K.; Worden, H. M.. Can the data assimilation of CO from MOPITT or IASI constrain high-latitude wildfire emissions? A Case Study of the 2017 Canadian Wildfires, in revision.  <br />
 
-* **He, T.-L.**; Jones, D. B. A.; Liu, H.; Zhang, B.; Molod, A. M.. Impacts on transport in GEOS-Chem version 12.8.2 of an online relaxed Arakawa-Shubert convection scheme, submitted to Geoscientific Model Development. 
+* Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. The capability of deep learning model to predict ozone across continents in China, the United States and Europe. submitted.<br />
 
-* **He, T.-L.**; Jones, D. B. A.; Keller, M.; Jiang, Z.; Henze, D.. Weak-constraint 4D-Var data assimilation for MOPITT CO retrievals using GEOS-Chem, in prep. <br />
 
 ### 2022 
 
@@ -19,7 +18,7 @@ author_profile: true
 [preprint@EarthArXiv](https://doi.org/10.31223/X52603), [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon). <br />
 
 
-* **He, T.-L.**; Jones, D. B. A.; Miyazaki, K; Bowman, K. W.; Jiang, Z.; Chen, X; Li, R.; Zhang, Y. [Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis](https://acp.copernicus.org/preprints/acp-2022-251/). <em>Atmospheric Chemistry and Physics Discussion</em>, (2022).<br /> 
+* **He, T.-L.**; Jones, D. B. A.; Miyazaki, K.; Bowman, K. W.; Jiang, Z.; Chen, X; Li, R.; Zhang, Y. [Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis](https://acp.copernicus.org/preprints/acp-2022-251/). <em>Atmospheric Chemistry and Physics Discussion</em>, (2022).<br /> 
 
 
 * Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Tang, Z.; Wang, M.; Jones, D. B. A.; Jiang, Z. [A comparative analysis for deep learning and Kalman Filter to predict CO in China](https://gmd.copernicus.org/preprints/gmd-2021-420/). <em>Geoscientific Model Development</em>, (2022).<br />
