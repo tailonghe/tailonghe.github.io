@@ -7,9 +7,11 @@ author_profile: true
 
 * Wang, M.; Chen, X.; **He, T.-L.**; Jones, D. B. A.; Liu, J.; Shen Y. Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021. <em>Science of the Total Environment</em>, in revision.<br />
 
-* Lutsch, E.; Wunch, D.; Jones, D. B. A.; Clerbaux, C.; Hannigan, J. W.; **He, T.-L.**; Ortega, I.; Roche, S.; Strong, K.; Worden, H. M.. Can the data assimilation of CO from MOPITT or IASI constrain high-latitude wildfire emissions? A Case Study of the 2017 Canadian Wildfires, in revision.  <br />
+* Lutsch, E.; Wunch, D.; Jones, D. B. A.; Clerbaux, C.; Hannigan, J. W.; **He, T.-L.**; Ortega, I.; Roche, S.; Strong, K.; Worden, H. M. Can the data assimilation of CO from MOPITT or IASI constrain high-latitude wildfire emissions? A Case Study of the 2017 Canadian Wildfires, in revision.  <br />
 
-* Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. The capability of deep learning model to predict ozone across continents in China, the United States and Europe. submitted.<br />
+* Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. The capability of deep learning model to predict ozone across continents in China, the United States and Europe, under review.<br />
+
+* **He, T.-L.<sup>#</sup>**; Oomen, G.-M.<sup>#</sup>; Tang, W.; et al. Opportunities and challenges offered by geostationary satellites for air quality forecasts, in prep.<br />
 
 
 ### 2022 
