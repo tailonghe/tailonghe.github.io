@@ -9,9 +9,12 @@ author_profile: true
 
 * Lutsch, E.; Wunch, D.; Jones, D. B. A.; Clerbaux, C.; Hannigan, J. W.; **He, T.-L.**; Ortega, I.; Roche, S.; Strong, K.; Worden, H. M. Can the data assimilation of CO from MOPITT or IASI constrain high-latitude wildfire emissions? A Case Study of the 2017 Canadian Wildfires, in revision.  <br />
 
-* Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. The capability of deep learning model to predict ozone across continents in China, the United States and Europe, under review.<br />
+* Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. The capability of deep learning model to predict ozone across continents in China, the United States and Europe, <em>Geophysical Research Letters</em>, under review.<br />
 
+* **He, T.-L.**; Boyd, R.; Varon, D.; Turner, A. Space-borne assessment of the Soviet Union collapse on the methane slowdown. in prep.<br />
+* **He, T.-L.<sup>#</sup>**; Dadeech, N.<sup>#</sup>; Turner, A. FootNet: a deep learning emulator of source-receptor footprints for computationally efficient flux inversions. in prep.<br />
 * **He, T.-L.<sup>#</sup>**; Oomen, G.-M.<sup>#</sup>; Tang, W.; et al. Opportunities and challenges offered by geostationary satellites for air quality forecasts, in prep.<br />
+
 
 
 ### 2022 
@@ -20,7 +23,7 @@ author_profile: true
 [preprint@EarthArXiv](https://doi.org/10.31223/X52603), [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon). <br />
 
 
-* **He, T.-L.**; Jones, D. B. A.; Miyazaki, K.; Bowman, K. W.; Jiang, Z.; Chen, X; Li, R.; Zhang, Y. [Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis](https://acp.copernicus.org/preprints/acp-2022-251/). <em>Atmospheric Chemistry and Physics Discussion</em>, (2022).<br /> 
+* **He, T.-L.**; Jones, D. B. A.; Miyazaki, K.; Bowman, K. W.; Jiang, Z.; Chen, X; Li, R.; Zhang, Y. [Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis](https://acp.copernicus.org/articles/22/14059/2022/acp-22-14059-2022.html). <em>Atmospheric Chemistry and Physics</em>, (2022).<br /> 
 
 
 * Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Tang, Z.; Wang, M.; Jones, D. B. A.; Jiang, Z. [A comparative analysis for deep learning and Kalman Filter to predict CO in China](https://gmd.copernicus.org/preprints/gmd-2021-420/). <em>Geoscientific Model Development</em>, (2022).<br />
