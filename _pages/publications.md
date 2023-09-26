@@ -9,32 +9,32 @@ author_profile: true
 
 * Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. The capability of deep learning model to predict ozone across continents in China, the United States and Europe, <em>Geophysical Research Letters</em>, in revision. <br />
 
-* **He, T.-L.**; Boyd, R.; Varon, D.; Turner, A. Space-borne assessment of the Soviet Union collapse on the methane slowdown. in prep.<br />
-* **He, T.-L.<sup>#</sup>**; Dadeech, N.<sup>#</sup>; Turner, A. FootNet: a deep learning emulator of source-receptor footprints for computationally efficient flux inversions. in prep.<br />
+* **He, T.-L.**; R. J. Boyd; D. J. Varon; A. J. Turner. Space-borne assessment of the Soviet Union collapse on the methane slowdown. under review.<br />
+* **He, T.-L.<sup>#</sup>**; N. Dadeech<sup>#</sup>; A. J. Turner. FootNet: a deep learning emulator of source-receptor footprints for computationally efficient flux inversions. in prep.<br />
 
 ### 2023
-* Chen, X.; et al. Data- and model-based urban O3 responses to NOx changes in China and the United States. <em>Journal of Geophysical Research: Atmospheres</em>, in press.
+* Chen, X.; M. Wang; **T.-L. He**; Z. Jiang; Y. Zhang; L. Zhou; J. Liu; H. Liao; H. Worden; D. B. A. Jones; D. Chen; Q. Tan; Y. Shen. Data- and model-based urban O3 responses to NOx changes in China and the United States. <em>Journal of Geophysical Research: Atmospheres</em>, 2023.
 
 ### 2022 
 
-* Zemskova, V. E.; **He, T.-L.**; Wan, Z.; Grisouard, N. [A deep-learning estimate of the decadal trends in the Southern Ocean carbon storage](https://www.nature.com/articles/s41467-022-31560-5). <em>Nature Communications</em> 13, 4056 (2022).<br />
+* Zemskova, V. E.; **T.-L. He**; Z. Wan; N. Grisouard. [A deep-learning estimate of the decadal trends in the Southern Ocean carbon storage](https://www.nature.com/articles/s41467-022-31560-5). <em>Nature Communications</em> 13, 4056 (2022).<br />
 [preprint@EarthArXiv](https://doi.org/10.31223/X52603), [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon). <br />
 
 
-* **He, T.-L.**; Jones, D. B. A.; Miyazaki, K.; Bowman, K. W.; Jiang, Z.; Chen, X; Li, R.; Zhang, Y. [Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis](https://acp.copernicus.org/articles/22/14059/2022/acp-22-14059-2022.html). <em>Atmospheric Chemistry and Physics</em>, 2022.<br /> 
+* **He, T.-L.**; D. B. A. Jones; K. Miyazaki; K. W. Bowman; Z. Jiang; X. Chen; R. Li; Y. Zhang. [Inverse modeling of Chinese NOx emissions using deep learning: Integrating in situ observations with a satellite-based chemical reanalysis](https://acp.copernicus.org/articles/22/14059/2022/acp-22-14059-2022.html). <em>Atmospheric Chemistry and Physics</em>, 2022.<br /> 
 
 
-* Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Tang, Z.; Wang, M.; Jones, D. B. A.; Jiang, Z. [A comparative analysis for deep learning and Kalman Filter to predict CO in China](https://gmd.copernicus.org/preprints/gmd-2021-420/). <em>Geoscientific Model Development</em>, 2022.<br />
+* Han, W.<sup>#</sup>; **T.-L. He<sup>#</sup>**; Z. Tang; M. Wang; D. B. A. Jones; Z. Jiang. [A comparative analysis for deep learning and Kalman Filter to predict CO in China](https://gmd.copernicus.org/preprints/gmd-2021-420/). <em>Geoscientific Model Development</em>, 2022.<br />
 
 
-* **He, T.-L.**; Jones, D. B. A.; Huang, B.; Liu, Y.; Miyazaki, K.; Jiang, Z.; White, E. C.; Worden, H. M.; Worden, J. R.. [Deep learning to evaluate US NOx emissions using surface ozone predictions](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035597). <em>Journal of Geophysical Research: Atmospheres</em>, 2022. <br />
+* **He, T.-L.**; D. B. A. Jones; B. Huang; Y. Liu; K. Miyazaki; Z. Jiang; E. C. White; H. M. Worden; J. R. Worden. [Deep learning to evaluate US NOx emissions using surface ozone predictions](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035597). <em>Journal of Geophysical Research: Atmospheres</em>, 2022. <br />
 [preprint@arXiv](https://arxiv.org/abs/1908.05841); [preprint@ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10507761.1) 
 
 ### Before 2022
 
-* Khade, V.; Polavarapu, S. M.; Neish, M.; Houtekamer, P. L.; Jones, D. B. A.; Baek, S.-J.; **He, T.-L.**; Gravel, S.. [The Environment and Climate Change Canada Carbon Assimilation System (EC-CAS v1.0) : demonstration with simulated CO observations](https://gmd.copernicus.org/preprints/gmd-2020-219/). <em>Geoscientific Model Development</em>, 2020.
+* Khade, V.; S. M. Polavarapu; M. Neish; P. L. Houtekamer; D. B. A. Jones; S.-J. Baek; **T.-L. He**; S. Gravel. [The Environment and Climate Change Canada Carbon Assimilation System (EC-CAS v1.0) : demonstration with simulated CO observations](https://gmd.copernicus.org/preprints/gmd-2020-219/). <em>Geoscientific Model Development</em>, 2020.
 
-* Hedelius, J. K.; **He, T.-L.**; Jones, D. B. A.; Baier, B. C.; Buchholz, R. R.; De Mazière, M.; Deutscher, N. M.; Dubey, M. K.; Feist, D. G.; Griffith, D. W. T.; Hase, F.; Iraci, L. T.; Jeseck, P.; Kiel, M.; Kivi, R.; Liu, C.; Morino, I.; Notholt, J.; Oh, Y.-S.; Ohyama, H.; Pollard, D. F.; Rettinger, M.; Roche, S.; Roehl, C. M.; Schneider, M.; Shiomi, K.; Strong, K.; Sussmann, R.; Sweeney, C.; Té, Y.; Uchino, O.; Velazco, V. A.; Wang, W.; Warneke, T.; Wennberg, P. O.; Worden, H. M.; Wunch, D.. [Evaluation of MOPITT Version 7 joint TIR–NIR XCO retrievals with TCCON](https://doi.org/10.5194/amt-12-5547-2019). <em>Atmospheric Measurement Techniques</em>, 12, 5547–5572, 2019.
+* Hedelius, J. K.; **T.-L. He**; D. B. A. Jones; B. C. Baier; R. R. Buchholz; M. De Mazière; N. M. Deutscher; M. K. Dubey; D. G. Feist; D. W. T. Griffith; F. Hase; L. T. Iraci; P. Jeseck; M. Kiel; R. Kivi; C. Liu; I. Morino; J. Notholt; Y.-S. Oh; H. Ohyama; D. F. Pollard; M. Rettinger; S. Roche; C. M. Roehl; M. Schneider; K. Shiomi; K. Strong; R. Sussmann; C. Sweeney; Y. Té; O. Uchino; V. A. Velazco; W. Wang; T. Warneke; P. O. Wennberg; H. M. Worden; D. Wunch. [Evaluation of MOPITT Version 7 joint TIR–NIR XCO retrievals with TCCON](https://doi.org/10.5194/amt-12-5547-2019). <em>Atmospheric Measurement Techniques</em>, 12, 5547–5572, 2019.
 
 
 
