@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Wang, M.; Chen, X.; **He, T.-L.**; Jones, D. B. A.; Liu, J.; Shen Y. Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021. <em>Science of the Total Environment</em>, in revision.<br />
 
 * Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. The capability of deep learning model to predict ozone across continents in China, the United States and Europe, <em>Geophysical Research Letters</em>, in revision. <br />
 
@@ -13,6 +12,9 @@ author_profile: true
 * **He, T.-L.<sup>#</sup>**; N. Dadeech<sup>#</sup>; A. J. Turner. FootNet: a deep learning emulator of source-receptor footprints for computationally efficient flux inversions. in prep.<br />
 
 ### 2023
+
+* Wang, M.; X. Chen; **T.-L. He**; D. B. A. Jones; J. Liu; Y. Shen. Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021. <em>Science of the Total Environment</em>, 2023.<br />
+
 
 * **He, T.-L.**; R. J. Boyd; D. J. Varon; A. J. Turner. Space-borne assessment of the Soviet Union collapse on the methane slowdown. under review.<br />
 [Preprint@EarthArXiv](https://eartharxiv.org/repository/view/5998/). <br />
