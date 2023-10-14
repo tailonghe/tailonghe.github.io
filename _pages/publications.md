@@ -13,7 +13,7 @@ author_profile: true
 
 ### 2023
 
-* Wang, M.; X. Chen; **T.-L. He**; D. B. A. Jones; J. Liu; Y. Shen. Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021. <em>Science of the Total Environment</em>, 2023.<br />
+* Wang, M.; X. Chen; **T.-L. He**; D. B. A. Jones; J. Liu; Y. Shen. [Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021](https://doi.org/10.1016/j.scitotenv.2023.167763). <em>Science of the Total Environment</em>, 2023.<br />
 
 
 * **He, T.-L.**; R. J. Boyd; D. J. Varon; A. J. Turner. Space-borne assessment of the Soviet Union collapse on the methane slowdown. under review.<br />
