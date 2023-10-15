@@ -11,6 +11,8 @@ author_profile: true
 
 * **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. FootNet: a deep learning emulator of source-receptor footprints for computationally efficient flux inversions. submitted.<br />
 
+* Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. Computationally efficient method of estimating greenhouse gases emissions at kilometer scale by emulating atmospheric transport using machine learning, in prep. <br />
+
 ### 2023
 
 * Wang, M.; X. Chen; **T.-L. He**; D. B. A. Jones; J. Liu; Y. Shen. [Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021](https://doi.org/10.1016/j.scitotenv.2023.167763). <em>Science of the Total Environment</em>, 2023.<br />
