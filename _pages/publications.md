@@ -9,7 +9,7 @@ author_profile: true
 * Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. The capability of deep learning model to predict ozone across continents in China, the United States and Europe, <em>Geophysical Research Letters</em>, in revision. <br />
 
 
-* **He, T.-L.<sup>#</sup>**; N. Dadeech<sup>#</sup>; A. J. Turner. FootNet: a deep learning emulator of source-receptor footprints for computationally efficient flux inversions. in prep.<br />
+* **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. FootNet: a deep learning emulator of source-receptor footprints for computationally efficient flux inversions. submitted.<br />
 
 ### 2023
 
