@@ -21,7 +21,7 @@ author_profile: true
 * **He, T.-L.**; R. J. Boyd; D. J. Varon; A. J. Turner. Space-borne assessment of the Soviet Union collapse on the methane slowdown. under review.<br />
 [Preprint@EarthArXiv](https://eartharxiv.org/repository/view/5998/). <br />
 
-* Chen, X.; M. Wang; **T.-L. He**; Z. Jiang; Y. Zhang; L. Zhou; J. Liu; H. Liao; H. Worden; D. B. A. Jones; D. Chen; Q. Tan; Y. Shen. Data- and model-based urban O3 responses to NOx changes in China and the United States. <em>Journal of Geophysical Research: Atmospheres</em>, 2023.
+* Chen, X.; M. Wang; **T.-L. He**; Z. Jiang; Y. Zhang; L. Zhou; J. Liu; H. Liao; H. Worden; D. B. A. Jones; D. Chen; Q. Tan; Y. Shen. [Data- and model-based urban O3 responses to NOx changes in China and the United States](https://doi.org/10.1029/2022JD038228). <em>Journal of Geophysical Research: Atmospheres</em>, 2023.
 
 ### 2022 
 
