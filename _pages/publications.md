@@ -6,14 +6,16 @@ author_profile: true
 ---
 
 
-* Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. The capability of deep learning model to predict ozone across continents in China, the United States and Europe, <em>Geophysical Research Letters</em>, in revision. <br />
+* **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. FootNet: a deep learning emulator of source-receptor footprints for computationally efficient flux inversions. in review.<br />
+[Preprint@EarthArXiv](https://doi.org/10.31223/X5197G). <br />
 
+* Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. Computationally efficient method of estimating greenhouse gases emissions at kilometer scale by emulating atmospheric transport using machine learning, in prep.<br />
 
-* **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. FootNet: a deep learning emulator of source-receptor footprints for computationally efficient flux inversions. submitted.<br />
-
-* Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. Computationally efficient method of estimating greenhouse gases emissions at kilometer scale by emulating atmospheric transport using machine learning, in prep. <br />
+* **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; W. Tang; et al. Opportunities and challenges offered by geostationary space observations for air quality characterization and forecasts, in prep. <br />
 
 ### 2023
+
+* Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. The capability of deep learning model to predict ozone across continents in China, the United States and Europe, <em>Geophysical Research Letters</em>, in press. <br />
 
 * Wang, M.; X. Chen; **T.-L. He**; D. B. A. Jones; J. Liu; Y. Shen. [Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021](https://doi.org/10.1016/j.scitotenv.2023.167763). <em>Science of the Total Environment</em>, 2023.<br />
 
