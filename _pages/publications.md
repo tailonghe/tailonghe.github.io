@@ -15,7 +15,7 @@ author_profile: true
 
 ### 2023
 
-* Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. The capability of deep learning model to predict ozone across continents in China, the United States and Europe, <em>Geophysical Research Letters</em>, in press. <br />
+* Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. [The capability of deep learning model to predict ozone across continents in China, the United States and Europe](https://doi.org/10.1029/2023GL104928), <em>Geophysical Research Letters</em>, 2023. <br />
 
 * Wang, M.; X. Chen; **T.-L. He**; D. B. A. Jones; J. Liu; Y. Shen. [Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021](https://doi.org/10.1016/j.scitotenv.2023.167763). <em>Science of the Total Environment</em>, 2023.<br />
 
