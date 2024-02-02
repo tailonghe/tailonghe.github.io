@@ -13,15 +13,16 @@ author_profile: true
 
 * **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; W. Tang; et al. Opportunities and challenges offered by geostationary space observations for air quality characterization and forecasts, in prep. <br />
 
+### 2024
+
+* **He, T.-L.**; R. J. Boyd; D. J. Varon; A. J. Turner. Increased methane emissions from oil and gas following the Soviet Union’s collapse. <em>Proc. Natl. Acad. Sci.</em>, in press.<br />
+[Preprint@EarthArXiv](https://eartharxiv.org/repository/view/5998/). <br />
+
 ### 2023
 
 * Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. [The capability of deep learning model to predict ozone across continents in China, the United States and Europe](https://doi.org/10.1029/2023GL104928), <em>Geophysical Research Letters</em>, 2023. <br />
 
 * Wang, M.; X. Chen; **T.-L. He**; D. B. A. Jones; J. Liu; Y. Shen. [Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021](https://doi.org/10.1016/j.scitotenv.2023.167763). <em>Science of the Total Environment</em>, 2023.<br />
-
-
-* **He, T.-L.**; R. J. Boyd; D. J. Varon; A. J. Turner. Space-borne assessment of the Soviet Union collapse on the methane slowdown. under review.<br />
-[Preprint@EarthArXiv](https://eartharxiv.org/repository/view/5998/). <br />
 
 * Chen, X.; M. Wang; **T.-L. He**; Z. Jiang; Y. Zhang; L. Zhou; J. Liu; H. Liao; H. Worden; D. B. A. Jones; D. Chen; Q. Tan; Y. Shen. [Data- and model-based urban O3 responses to NOx changes in China and the United States](https://doi.org/10.1029/2022JD038228). <em>Journal of Geophysical Research: Atmospheres</em>, 2023.
 
