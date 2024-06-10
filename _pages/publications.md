@@ -16,7 +16,8 @@ author_profile: true
 ### 2024
 
 * **He, T.-L.**; R. J. Boyd; D. J. Varon; A. J. Turner. [Increased methane emissions from oil and gas following the Soviet Union’s collapse](https://www.pnas.org/doi/10.1073/pnas.2314600121). <em>Proc. Natl. Acad. Sci.</em>, 121 (12) e2314600121, 2024.<br />
- [UW News](https://www.washington.edu/news/2024/03/12/ai-analysis-of-historical-satellite-images-show-ussr-collapse-in-1990s-increased-methane-emissions-despite-lower-oil-and-gas-production/)<br />
+
+**<em>Press release:<em />** [UW News](https://www.washington.edu/news/2024/03/12/ai-analysis-of-historical-satellite-images-show-ussr-collapse-in-1990s-increased-methane-emissions-despite-lower-oil-and-gas-production/),  [EurekAlert!](https://www.eurekalert.org/news-releases/1037434),  [ScienceDaily](https://www.sciencedaily.com/releases/2024/03/240312221011.htm),  [Phys](https://phys.org/news/2024-03-ai-analysis-satellite-images-1990s.html)<br />
 
 ### 2023
 
