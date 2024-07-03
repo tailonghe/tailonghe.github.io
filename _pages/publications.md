@@ -5,19 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-* **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. FootNet: a deep learning emulator of source-receptor footprints for computationally efficient flux inversions. in review.<br />
-[Preprint@EarthArXiv](https://doi.org/10.31223/X5197G). <br />
-
 * Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. Computationally efficient method of estimating greenhouse gases emissions at kilometer scale by emulating atmospheric transport using machine learning, in prep.<br />
 
-* **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; W. Tang; et al. Opportunities and challenges offered by geostationary space observations for air quality characterization and forecasts, in prep. <br />
+* **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; W. Tang; et al. Opportunities and challenges offered by geostationary space observations for air quality characterization and forecasts, <em>BAMS</em>, under review. <br />
 
 ### 2024
 
+* **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. [FootNet v1.0: Development of a machine learning emulator of atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1526/#discussion). <em>EGUsphere</em>, under review.<br />
+[Preprint@EarthArXiv](https://doi.org/10.31223/X5197G). <br />
+
 * **He, T.-L.**; R. J. Boyd; D. J. Varon; A. J. Turner. [Increased methane emissions from oil and gas following the Soviet Union’s collapse](https://www.pnas.org/doi/10.1073/pnas.2314600121). <em>Proc. Natl. Acad. Sci.</em>, 121 (12) e2314600121, 2024.<br />
 
-**<em>Press release:<em />** [UW News](https://www.washington.edu/news/2024/03/12/ai-analysis-of-historical-satellite-images-show-ussr-collapse-in-1990s-increased-methane-emissions-despite-lower-oil-and-gas-production/),  [EurekAlert!](https://www.eurekalert.org/news-releases/1037434),  [ScienceDaily](https://www.sciencedaily.com/releases/2024/03/240312221011.htm),  [Phys](https://phys.org/news/2024-03-ai-analysis-satellite-images-1990s.html)<br />
+**<em>Press release:</em>** [UW News](https://www.washington.edu/news/2024/03/12/ai-analysis-of-historical-satellite-images-show-ussr-collapse-in-1990s-increased-methane-emissions-despite-lower-oil-and-gas-production/),  [EurekAlert!](https://www.eurekalert.org/news-releases/1037434),  [ScienceDaily](https://www.sciencedaily.com/releases/2024/03/240312221011.htm),  [Phys](https://phys.org/news/2024-03-ai-analysis-satellite-images-1990s.html)<br />
 
 ### 2023
 
