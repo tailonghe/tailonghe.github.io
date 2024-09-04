@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoc researcher at University of Washington. My project focuses on the application of machine learning and data assimilation in climate change, air quality, and carbon cycle, including:
+I am an atmospheric scientist at Harvard University. I am interested in greenhouse gases, air pollution, and remote sensing. Current research projects include the following:
 
-* Deep learning and other machine learning models.
-* Ensemble Kalman Filter (EnKF).
-* Four-dimensional variational (4D-Var) system.
+* Detection of point sources from space
+* High-resolution inverse modelling of emissions
