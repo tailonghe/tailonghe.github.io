@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an atmospheric scientist at Harvard University. I am interested in greenhouse gases, air pollution, and remote sensing. Current research projects include the following:
+I am an atmospheric scientist at Harvard University. My research interests focus on:
+1) Where, when, and how air pollutants and greenhouse gases are emit into the atmosphere
+2) The impact of these emissions on atmospheric chemistry and the climate system
+3) The variations in emissions and the underlying reasons for their occurrence
 
-* Detection of point sources from space
-* High-resolution inverse modelling of emissions
+I use observational data, physics-based models, and machine learning in my studies. Current research themes include the following:
+* Detection of point sources of air pollutants and greenhouse gases from space-based and aircraft observations
+* Development of efficient high-resolution inverse modelling of emissions
