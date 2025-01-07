@@ -7,28 +7,31 @@ author_profile: true
 
 * **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; W. Tang; et al. Opportunities and challenges offered by geostationary space observations for air quality characterization and forecasts, <em>BAMS</em>, under review. <br />
 
-### 2024
+### 2025
 
 [12] Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. [High-resolution greenhouse gas flux inversions using a machine learning surrogate model for atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2918/), <em>EGUsphere</em>, under review.<br />
 
 [11] **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. [FootNet v1.0: Development of a machine learning emulator of atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1526/#discussion). <em>EGUsphere</em>, under review.<br />
 [Preprint@EarthArXiv](https://doi.org/10.31223/X5197G). <br />
 
-[10] **He, T.-L.**; R. J. Boyd; D. J. Varon; A. J. Turner. [Increased methane emissions from oil and gas following the Soviet Union’s collapse](https://www.pnas.org/doi/10.1073/pnas.2314600121). <em>Proc. Natl. Acad. Sci.</em>, 121 (12) e2314600121, 2024.<br />
+### 2024
 
+
+[10] **He, T.-L.**; R. J. Boyd; D. J. Varon; A. J. Turner. [Increased methane emissions from oil and gas following the Soviet Union’s collapse](https://www.pnas.org/doi/10.1073/pnas.2314600121). <em>Proc. Natl. Acad. Sci.</em>, 121 (12) e2314600121, 2024.<br />
 **<em>Press release:</em>** [UW News](https://www.washington.edu/news/2024/03/12/ai-analysis-of-historical-satellite-images-show-ussr-collapse-in-1990s-increased-methane-emissions-despite-lower-oil-and-gas-production/),  [EurekAlert!](https://www.eurekalert.org/news-releases/1037434),  [ScienceDaily](https://www.sciencedaily.com/releases/2024/03/240312221011.htm),  [Phys](https://phys.org/news/2024-03-ai-analysis-satellite-images-1990s.html)<br />
+
+[9] Wang, M.; X. Chen; **T.-L. He**; D. B. A. Jones; J. Liu; Y. Shen. [Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021](https://doi.org/10.1016/j.scitotenv.2023.167763). <em>Science of the Total Environment</em>, 2024.<br />
+
 
 ### 2023
 
-[9] Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. [The capability of deep learning model to predict ozone across continents in China, the United States and Europe](https://doi.org/10.1029/2023GL104928), <em>Geophysical Research Letters</em>, 2023. <br />
-
-[8] Wang, M.; X. Chen; **T.-L. He**; D. B. A. Jones; J. Liu; Y. Shen. [Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021](https://doi.org/10.1016/j.scitotenv.2023.167763). <em>Science of the Total Environment</em>, 2023.<br />
+[8] Han, W.<sup>#</sup>; **He, T.-L.<sup>#</sup>**; Zhu, R.; Jones, D. B. A.; Miyazaki, K.; Jiang, Z. [The capability of deep learning model to predict ozone across continents in China, the United States and Europe](https://doi.org/10.1029/2023GL104928), <em>Geophysical Research Letters</em>, 2023. <br />
 
 [7] Chen, X.; M. Wang; **T.-L. He**; Z. Jiang; Y. Zhang; L. Zhou; J. Liu; H. Liao; H. Worden; D. B. A. Jones; D. Chen; Q. Tan; Y. Shen. [Data- and model-based urban O3 responses to NOx changes in China and the United States](https://doi.org/10.1029/2022JD038228). <em>Journal of Geophysical Research: Atmospheres</em>, 2023.
 
 ### 2022 
 
-[6] Zemskova, V. E.; **T.-L. He**; Z. Wan; N. Grisouard. [A deep-learning estimate of the decadal trends in the Southern Ocean carbon storage](https://www.nature.com/articles/s41467-022-31560-5). <em>Nature Communications</em> 13, 4056 (2022).<br />
+[6] Zemskova, V. E.; **T.-L. He**; Z. Wan; N. Grisouard. [A deep-learning estimate of the decadal trends in the Southern Ocean carbon storage](https://www.nature.com/articles/s41467-022-31560-5). <em>Nature Communications</em> 13, 4056 (2022).<br /> 
 [Preprint@EarthArXiv](https://doi.org/10.31223/X52603), [GitHub](https://github.com/tailonghe/Southern_Ocean_Carbon). <br />
 
 
