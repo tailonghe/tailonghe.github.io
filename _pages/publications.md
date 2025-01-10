@@ -5,9 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; W. Tang; et al. Opportunities and challenges offered by geostationary space observations for air quality characterization and forecasts, <em>BAMS</em>, under review. <br />
+Wang, M; Z. Jiang; X. Chen; W. Han; **T.-L. He**; Y. Shen. Meteorological modulation dominated the occurrence of ozone pollution events in China in 2022. submitted.
+
+Jiang, Z; J. Lin; **T.-L. He**; F. Jiang; J. Jin; K. Qin; L. Shen; P. Yang; Z. Zang; L. Zhang; Y. Zhang; B. Zheng; H. Zhong; L. Zhu. Satellite-based emission inversion for air pollutants and greenhouse gases. submitted.
 
 ### 2025
+
+[13] **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; I. Bouarar; K. Chance; C. Clerbaux; D. P. Edwards; H. Eskes; B. Gaubert; C. Granier; M. Guevara; D. J. Jacob; J. Kaiser; J. Kim; S. Kondragunta; X. Liu; K. Miyazaki; E. A. Marais; R. Park; V.-H. Peuch; G. Pfister; A. Richter; T. Stavrakou; W. Tang; R. M. Suleiman; A. J. Turner; B. Veihelmann; Z.-C. Zeng; G. P. Brasseur. Challenges and opportunities offered by geostationary space observations for air quality characterization and forecasts, <em>Bulletin of the American Meteorological Society</em>, in press. <br />
 
 [12] Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. [High-resolution greenhouse gas flux inversions using a machine learning surrogate model for atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2918/), <em>EGUsphere</em>, under review.<br />
 
