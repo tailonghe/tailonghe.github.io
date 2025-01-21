@@ -7,6 +7,8 @@ author_profile: true
 
 Wang, M; Z. Jiang; X. Chen; W. Han; **T.-L. He**; Y. Shen. Meteorological modulation dominated the occurrence of ozone pollution events in China in 2022. submitted.
 
+Wang, M; Z. Jiang; X. Chen; W. Han; L. Zhu; **T.-L. He**; Y. Shen. Daily seamless dataset of surface formaldehyde concentrations in China in 2019-2022 constrained with TROPOMI and GEOS-Chem. submitted.
+
 Jiang, Z; J. Lin; **T.-L. He**; F. Jiang; J. Jin; K. Qin; L. Shen; P. Yang; Z. Zang; L. Zhang; Y. Zhang; B. Zheng; H. Zhong; L. Zhu. Satellite-based emission inversion for air pollutants and greenhouse gases. submitted.
 
 ### 2025
@@ -15,7 +17,7 @@ Jiang, Z; J. Lin; **T.-L. He**; F. Jiang; J. Jin; K. Qin; L. Shen; P. Yang; Z. Z
 
 [12] Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. [High-resolution greenhouse gas flux inversions using a machine learning surrogate model for atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2918/), <em>EGUsphere</em>, under review.<br />
 
-[11] **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. [FootNet v1.0: Development of a machine learning emulator of atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1526/#discussion). <em>EGUsphere</em>, under review.<br />
+[11] **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. [FootNet v1.0: Development of a machine learning emulator of atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1526/#discussion). <em>Geoscientific Model Development</em>, in press.<br />
 [Preprint@EarthArXiv](https://doi.org/10.31223/X5197G). <br />
 
 ### 2024
