@@ -13,7 +13,7 @@ Jiang, Z; J. Lin; **T.-L. He**; F. Jiang; J. Jin; K. Qin; L. Shen; P. Yang; Z. Z
 
 ### 2025
 
-[13] **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; I. Bouarar; K. Chance; C. Clerbaux; D. P. Edwards; H. Eskes; B. Gaubert; C. Granier; M. Guevara; D. J. Jacob; J. Kaiser; J. Kim; S. Kondragunta; X. Liu; K. Miyazaki; E. A. Marais; R. Park; V.-H. Peuch; G. Pfister; A. Richter; T. Stavrakou; W. Tang; R. M. Suleiman; A. J. Turner; B. Veihelmann; Z.-C. Zeng; G. P. Brasseur. Challenges and opportunities offered by geostationary space observations for air quality characterization and forecasts, <em>Bulletin of the American Meteorological Society</em>, in press. <br />
+[13] **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; I. Bouarar; K. Chance; C. Clerbaux; D. P. Edwards; H. Eskes; B. Gaubert; C. Granier; M. Guevara; D. J. Jacob; J. Kaiser; J. Kim; S. Kondragunta; X. Liu; K. Miyazaki; E. A. Marais; R. Park; V.-H. Peuch; G. Pfister; A. Richter; T. Stavrakou; W. Tang; R. M. Suleiman; A. J. Turner; B. Veihelmann; Z.-C. Zeng; G. P. Brasseur. [Challenges and opportunities offered by geostationary space observations for air quality characterization and forecasts](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0145.1/BAMS-D-23-0145.1.xml), <em>Bulletin of the American Meteorological Society</em>, in press. <br />
 
 [12] Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. [High-resolution greenhouse gas flux inversions using a machine learning surrogate model for atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2918/), <em>EGUsphere</em>, under review.<br />
 
