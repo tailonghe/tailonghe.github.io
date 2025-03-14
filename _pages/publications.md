@@ -11,14 +11,15 @@ Wang, M; Z. Jiang; X. Chen; W. Han; L. Zhu; **T.-L. He**; Y. Shen. Daily seamles
 
 Jiang, Z; J. Lin; **T.-L. He**; F. Jiang; J. Jin; K. Qin; L. Shen; P. Yang; Z. Zang; L. Zhang; Y. Zhang; B. Zheng; H. Zhong; L. Zhu. Satellite-based emission inversion for air pollutants and greenhouse gases. submitted.
 
+Z. He; Z.-C. Zeng; M. Liang; L. Gao; C. Zhou; **T.-L. He**. Emerging seasonality of methane emissions from super-emitters on Turkmenistan's west coast revealed by space-borne observations. submitted.
+
 ### 2025
 
 [13] **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; I. Bouarar; K. Chance; C. Clerbaux; D. P. Edwards; H. Eskes; B. Gaubert; C. Granier; M. Guevara; D. J. Jacob; J. Kaiser; J. Kim; S. Kondragunta; X. Liu; K. Miyazaki; E. A. Marais; R. Park; V.-H. Peuch; G. Pfister; A. Richter; T. Stavrakou; W. Tang; R. M. Suleiman; A. J. Turner; B. Veihelmann; Z.-C. Zeng; G. P. Brasseur. [Challenges and opportunities offered by geostationary space observations for air quality characterization and forecasts](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0145.1/BAMS-D-23-0145.1.xml), <em>Bulletin of the American Meteorological Society</em>, in press. <br />
 
-[12] Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. [High-resolution greenhouse gas flux inversions using a machine learning surrogate model for atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2918/), <em>EGUsphere</em>, under review.<br />
+[12] Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. [High-resolution greenhouse gas flux inversions using a machine learning surrogate model for atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2918/), <em>Atmospheric Chemistry and Physics</em>, in press.<br />
 
-[11] **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. [FootNet v1.0: Development of a machine learning emulator of atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1526/#discussion). <em>Geoscientific Model Development</em>, in press.<br />
-[Preprint@EarthArXiv](https://doi.org/10.31223/X5197G). <br />
+[11] **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. [FootNet v1.0: Development of a machine learning emulator of atmospheric transport]([https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1526/#discussion](https://gmd.copernicus.org/articles/18/1661/2025/)). <em>Geoscientific Model Development</em>, 2025.<br />
 
 ### 2024
 
