@@ -19,7 +19,7 @@ Z. He; Z.-C. Zeng; M. Liang; L. Gao; C. Zhou; **T.-L. He**. Emerging seasonality
 
 [12] Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. [High-resolution greenhouse gas flux inversions using a machine learning surrogate model for atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2918/), <em>Atmospheric Chemistry and Physics</em>, in press.<br />
 
-[11] **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. [FootNet v1.0: Development of a machine learning emulator of atmospheric transport]([https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1526/#discussion](https://gmd.copernicus.org/articles/18/1661/2025/)). <em>Geoscientific Model Development</em>, 2025.<br />
+[11] **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. [FootNet v1.0: Development of a machine learning emulator of atmospheric transport](https://gmd.copernicus.org/articles/18/1661/2025/). <em>Geoscientific Model Development</em>, 2025.<br />
 
 ### 2024
 
