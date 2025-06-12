@@ -15,9 +15,10 @@ Z. He; Z.-C. Zeng; M. Liang; L. Gao; C. Zhou; **T.-L. He**. Emerging seasonality
 
 ### 2025
 
-[13] **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; I. Bouarar; K. Chance; C. Clerbaux; D. P. Edwards; H. Eskes; B. Gaubert; C. Granier; M. Guevara; D. J. Jacob; J. Kaiser; J. Kim; S. Kondragunta; X. Liu; K. Miyazaki; E. A. Marais; R. Park; V.-H. Peuch; G. Pfister; A. Richter; T. Stavrakou; W. Tang; R. M. Suleiman; A. J. Turner; B. Veihelmann; Z.-C. Zeng; G. P. Brasseur. [Challenges and opportunities offered by geostationary space observations for air quality characterization and forecasts](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0145.1/BAMS-D-23-0145.1.xml), <em>Bulletin of the American Meteorological Society</em>, in press. <br />
+[13] **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; W. Tang; I. Bouarar; K. Chance; C. Clerbaux; D. P. Edwards; H. Eskes; B. Gaubert; C. Granier; M. Guevara; D. J. Jacob; J. Kaiser; J. Kim; S. Kondragunta; X. Liu; K. Miyazaki; E. A. Marais; R. Park; V.-H. Peuch; G. Pfister; A. Richter; T. Stavrakou; R. M. Suleiman; A. J. Turner; B. Veihelmann; Z.-C. Zeng; G. P. Brasseur. [Challenges and opportunities offered by geostationary space observations for air quality characterization and forecasts](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0145.1/BAMS-D-23-0145.1.xml), <em>Bulletin of the American Meteorological Society</em>, 2025. <br />
+**<em>Selected and featured as BAMS highlight article</em>**<br />
 
-[12] Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. [High-resolution greenhouse gas flux inversions using a machine learning surrogate model for atmospheric transport](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2918/), <em>Atmospheric Chemistry and Physics</em>, in press.<br />
+[12] Dadheech, N.<sup>#</sup>, **T.-L. He<sup>#</sup>**, A. J. Turner. [High-resolution greenhouse gas flux inversions using a machine learning surrogate model for atmospheric transport](https://acp.copernicus.org/articles/25/5159/2025/), <em>Atmospheric Chemistry and Physics</em>, 2025.<br />
 
 [11] **He, T.-L.<sup>#</sup>**; N. Dadheech<sup>#</sup>; T. M. Thompson; A. J. Turner. [FootNet v1.0: Development of a machine learning emulator of atmospheric transport](https://gmd.copernicus.org/articles/18/1661/2025/). <em>Geoscientific Model Development</em>, 2025.<br />
 
