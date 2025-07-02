@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ### Professional experience
-* 2024 -- present: Postdoctoral fellow, Harvard University
+* 2025 -- present: Postdoctoral associate, Massachusetts Institute of Technology
+* 2024 -- 2025: Postdoctoral fellow, Harvard University
 * 2023 -- present: Senior Technical Consultant, Geofinancial Analytics
 * 2022 -- 2024: Postdoctoral fellow, University of Washington
 
