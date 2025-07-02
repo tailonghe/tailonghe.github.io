@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tai-Long He"
 title_separator          : "-"
 name                     : &name "Tai-Long He"
-description              : &description "Harvard University"
+description              : &description "Massachusetts Institute of Technology"
 url                      : https://tailonghe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tailonghe.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tai-Long He"
   avatar           : "profile.jpg"
-  bio              : "Harvard University"
+  bio              : "Massachusetts Institute of Technology"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : "https://github.com/tailonghe"
   google_plus      :
   keybase          :
   instagram        :
