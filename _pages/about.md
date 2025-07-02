@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an atmospheric scientist at Harvard University. My research interests focus on: 
+I am an atmospheric scientist at Massachusetts Institute of Technology. My research interests focus on: 
 * Where, when, and how air pollutants and greenhouse gases are emitted into the atmosphere 
 * The impact of these emissions on atmospheric chemistry and the climate system 
 * The variations in emissions and the underlying reasons for their occurrence 
