@@ -5,15 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-Wang, M; Z. Jiang; X. Chen; W. Han; **T.-L. He**; Y. Shen. Meteorological modulation dominated the occurrence of ozone pollution events in China in 2022. submitted.
+**He, T.-L. et al.** Coordinated satellite, aircraft, and ground-based observations of a large transient methane release. in prep.
 
-Wang, M; Z. Jiang; X. Chen; W. Han; L. Zhu; **T.-L. He**; Y. Shen. Daily seamless dataset of surface formaldehyde concentrations in China in 2019-2022 constrained with TROPOMI and GEOS-Chem. submitted.
+Wang, M; Z. Jiang; X. Chen; W. Han; **T.-L. He**; Y. Shen. Meteorological modulation dominated the occurrence of ozone pollution events in China in 2022. submitted.
 
 Jiang, Z; J. Lin; **T.-L. He**; F. Jiang; J. Jin; K. Qin; L. Shen; P. Yang; Z. Zang; L. Zhang; Y. Zhang; B. Zheng; H. Zhong; L. Zhu. Satellite-based emission inversion for air pollutants and greenhouse gases. submitted.
 
 Z. He; Z.-C. Zeng; M. Liang; L. Gao; C. Zhou; **T.-L. He**. Emerging seasonality of methane emissions from super-emitters on Turkmenistan's west coast revealed by space-borne observations. submitted.
 
 ### 2025
+
+[14] Wang, M; Z. Jiang; X. Chen; W. Han; L. Zhu; **T.-L. He**; Y. Shen. Daily seamless dataset of surface formaldehyde concentrations in China in 2019-2022 constrained with TROPOMI and GEOS-Chem, <em>Atmospheric Environment</em>, 2025.
 
 [13] **He, T.-L.<sup>#</sup>**; G.-M. Oomen<sup>#</sup>; W. Tang; I. Bouarar; K. Chance; C. Clerbaux; D. P. Edwards; H. Eskes; B. Gaubert; C. Granier; M. Guevara; D. J. Jacob; J. Kaiser; J. Kim; S. Kondragunta; X. Liu; K. Miyazaki; E. A. Marais; R. Park; V.-H. Peuch; G. Pfister; A. Richter; T. Stavrakou; R. M. Suleiman; A. J. Turner; B. Veihelmann; Z.-C. Zeng; G. P. Brasseur. [Challenges and opportunities offered by geostationary space observations for air quality characterization and forecasts](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0145.1/BAMS-D-23-0145.1.xml), <em>Bulletin of the American Meteorological Society</em>, 2025. <br />
 **<em>Selected and featured as BAMS highlight article</em>**<br />
