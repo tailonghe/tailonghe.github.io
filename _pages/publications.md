@@ -9,11 +9,11 @@ author_profile: true
 
 Wang, M; Z. Jiang; X. Chen; W. Han; **T.-L. He**; Y. Shen. Meteorological modulation dominated the occurrence of ozone pollution events in China in 2022. submitted.
 
-Z. He; Z.-C. Zeng; M. Liang; L. Gao; C. Zhou; **T.-L. He**. Emerging seasonality of methane emissions from super-emitters on Turkmenistan's west coast revealed by space-borne observations. submitted.
-
 C. Fang; Z. Jiang; M. Wang; X. Chen; W. Han; **T.-L. He**; Y. Shen. Quantifying and correcting systematic discrepancies in the comparison between surface CO observations and simulations. submitted.
 
 ### 2025
+
+[16] Z. He; F. Gong; M. Liang; L. Gao; C. Zhou; **T.-L. He**; Z.-C. Zeng. Satellite Insights into Methane Super-Emitters: Regional Emissions and Yearly Growth on Turkmenista, <em>International Journal of Applied Earth Observation and Geoinformation</em>, 2025
 
 [15] Jiang, Z; J. Lin; **T.-L. He**; F. Jiang; J. Jin; K. Qin; L. Shen; P. Yang; Z. Zang; L. Zhang; Y. Zhang; B. Zheng; H. Zhong; L. Zhu. [Satellite-based emission inversion for air pollutants and greenhouse gases](http://jmr.cmsjournal.net/en/article/doi/10.1007/s13351-025-4914-7), <em>Journal of Meteorological Research</em>, 2025.
 
