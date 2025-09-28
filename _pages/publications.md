@@ -15,7 +15,7 @@ C. Fang; Z. Jiang; M. Wang; X. Chen; W. Han; **T.-L. He**; Y. Shen. Quantifying 
 
 ### 2025
 
-[15] Jiang, Z; J. Lin; **T.-L. He**; F. Jiang; J. Jin; K. Qin; L. Shen; P. Yang; Z. Zang; L. Zhang; Y. Zhang; B. Zheng; H. Zhong; L. Zhu. Satellite-based emission inversion for air pollutants and greenhouse gases, <em>Journal of Meteorological Research</em>, 2025.
+[15] Jiang, Z; J. Lin; **T.-L. He**; F. Jiang; J. Jin; K. Qin; L. Shen; P. Yang; Z. Zang; L. Zhang; Y. Zhang; B. Zheng; H. Zhong; L. Zhu. [Satellite-based emission inversion for air pollutants and greenhouse gases](http://jmr.cmsjournal.net/en/article/doi/10.1007/s13351-025-4914-7), <em>Journal of Meteorological Research</em>, 2025.
 
 [14] Wang, M; Z. Jiang; X. Chen; W. Han; L. Zhu; **T.-L. He**; Y. Shen. [Daily seamless dataset of surface formaldehyde concentrations in China in 2019-2022 constrained with TROPOMI and GEOS-Chem](https://www.sciencedirect.com/science/article/abs/pii/S1352231025005217), <em>Atmospheric Environment</em>, 2025.
 
