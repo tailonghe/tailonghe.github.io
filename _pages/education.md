@@ -16,7 +16,7 @@ author_profile: true
 * 2012 -- 2016: H.B.Sc., Physics, Univeristy of Toronto
 
 ### Services
-* Journal review: Atmospheric Chemistry and Physics, Geophysical Research Letters, Scientific Reports, One Earth, Geoscientific Model Development, Remote Sensing, Bulletin of the American Meteorological Society
+* Journal review: Atmospheric Chemistry and Physics, Geophysical Research Letters, Bulletin of the American Meteorological Society, Journal of Geophysical Research: Atmospheres, One Earth, Geoscientific Model Development, Scientific Reports, Remote Sensing
 
 
 
