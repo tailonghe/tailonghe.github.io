@@ -9,9 +9,9 @@ author_profile: true
 
 Wang, M; Z. Jiang; X. Chen; W. Han; **T.-L. He**; Y. Shen. Meteorological modulation dominated the occurrence of ozone pollution events in China in 2022. submitted.
 
-C. Fang; Z. Jiang; M. Wang; X. Chen; W. Han; **T.-L. He**; Y. Shen. Quantifying and correcting systematic discrepancies in the comparison between surface CO observations and simulations. submitted.
-
 ### 2025
+
+[17] C. Fang; Z. Jiang; M. Wang; X. Chen; W. Han; **T.-L. He**; Y. Shen. [Quantifying and correcting systematic discrepancies in the comparison between surface CO observations and simulations](https://www.sciencedirect.com/science/article/abs/pii/S1352231025007447). <em>Atmospheric Environment</em>, 2025.
 
 [16] Z. He; F. Gong; M. Liang; L. Gao; C. Zhou; **T.-L. He**; Z.-C. Zeng. [Satellite Insights into methane Super-Emitters: Regional emissions and yearly growth on Turkmenistan’s west coast](https://www.sciencedirect.com/science/article/pii/S1569843225006223), <em>International Journal of Applied Earth Observation and Geoinformation</em>, 2025
 
