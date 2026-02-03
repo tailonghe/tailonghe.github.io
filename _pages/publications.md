@@ -5,9 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-**He, T.-L. et al.** Coordinated satellite, aircraft, and ground-based observations of a large transient methane release. in prep.
+**He, T.-L.**, et al. The GEO-Ring for monitoring global extreme methane releases. in prep.
 
 Wang, M; Z. Jiang; X. Chen; W. Han; **T.-L. He**; Y. Shen. Meteorological modulation dominated the occurrence of ozone pollution events in China in 2022. submitted.
+
+### 2026
+
+[18] **He, T.-L.**; D. J. Varon, S. Kondragunta, X. Ren, M. Cohen, B. J. Carroll, N. Malarich, J. Peischl, T. A. de Jong, J. Gerritsen, J. D. Maasakkers, D. H. Cusworth, R. Duren, S. Brown, C. Warneke, C. Sweeney, P. Stratton, A. Brewer, S. Baidar, E. Levin. Coordinated satellite, aircraft, and ground-based observations of a large transient methane release. submitted. [Preprint](https://eartharxiv.org/repository/view/11628/)
 
 ### 2025
 
