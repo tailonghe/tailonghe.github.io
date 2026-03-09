@@ -4,12 +4,12 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<blockquote style="background-color:#f5f7fa; border-left:4px solid #2196F3; padding:15px 20px; margin-top:0; overflow:hidden;">
+<blockquote style="background-color:#f5f7fa; border-left:4px solid #2196F3; padding:15px 20px; margin-top:0; overflow:hidden; width:100%; box-sizing:border-box;">
 <h3 style="margin-top:0; padding-top:0;">Remote Sensing of Greenhouse Gas & Pollutant Point Sources</h3>
 <div style="display:flex; gap:10px; margin-top:10px;">
   <img src="/images/VLMR_fig1.png" alt="description" style="width:50%;"><img src="/images/vlmr_movie.gif" alt="description" style="width:50%;">
 </div>
-<p>I use AI-driven methods and remote sensing to detect and quantify facility-level emissions of greenhouse gases and air pollutants. My work spans from algorithm development to addressing scientific questions, such as:</p>
+<p>I use AI and satellite remote sensing to detect and quantify facility-level emissions of greenhouse gases and air pollutants. My work spans from algorithm development to addressing scientific questions, such as:</p>
 <ul>
   <li>What is the role of industrial point sources in driving methane's rise since the 1980s?</li>
   <li>What physical and operational factors govern leakage-related methane emissions?</li>
@@ -26,12 +26,12 @@ author_profile: true
 
 <blockquote style="background-color:#f5f7fa; border-left:4px solid #FF9800; padding:15px 20px; margin-top:0; overflow:hidden;">
 <h3>AI Emulators for Surrogate Modeling</h3>
-<p>Transport and chemical modules are major computational bottlenecks in atmospheric chemistry models. I develop AI-based emulators as fast and accurate surrogates for these modules, with a particular focus on accelerating simulations of atmospheric chemistry relevant to air quality. These approaches enable substantial gains in computational efficiency while allowing models to run at higher spatial resolution or with expanded chemical complexity.</p>
+<p>Transport and chemical modules are major computational bottlenecks in atmospheric chemistry models. I develop AI emulators as fast and accurate surrogates for these modules, with a focus on accelerating simulations of atmospheric chemistry relevant to air quality. These approaches enable substantial gains in computational efficiency while allowing models to run at higher spatial resolution or with expanded chemical complexity.</p>
 <p><strong>Related publications:</strong> He et al. 2022a, JGR: Atmospheres; Han and He et al. 2022, GMD; Han and He et al. 2023, GRL</p>
 </blockquote>
 
 <blockquote style="background-color:#f5f7fa; border-left:4px solid #F44336; padding:15px 20px; margin-top:0; overflow:hidden;">
 <h3>AI Applications for Earth Science</h3>
-<p>I am also interested in general applications of AI/ML models in broader topics in Earth Science.</p>
+<p>I am broadly interested in applying AI/ML to Earth system science, particularly in problems where physical constraints and data-driven approaches can be combined.</p>
 <p><strong>Related publications:</strong> Zemskova et al. 2022, Nature Communications</p>
 </blockquote>
