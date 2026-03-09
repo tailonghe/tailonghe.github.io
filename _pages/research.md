@@ -4,8 +4,12 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<blockquote style="background-color:#f5f7fa; border-left:4px solid #2196F3; padding:15px 20px;">
+<blockquote style="background-color:#f5f7fa; border-left:4px solid #2196F3; padding:15px 20px; margin:0 0 15px 0; overflow:hidden;">
 <h3>Remote Sensing of Greenhouse Gas & Pollutant Point Sources</h3>
+
+<img src="/images/VLMR_fig1.png" alt="description" width="250" style="float:right; margin-left:20px; margin-bottom:10px;">
+<img src="/images/vlmr_movie.gif" alt="description" width="220" style="float:right; margin-left:10px; margin-bottom:10px;">
+
 <p>I use AI-driven methods and remote sensing to detect and quantify facility-level emissions of greenhouse gases and air pollutants. My work spans from algorithm development to addressing scientific questions, such as:</p>
 <ul>
   <li>What is the role of industrial point sources in driving methane's rise since the 1980s?</li>
@@ -13,8 +17,8 @@ author_profile: true
   <li>Can we realize near real-time monitoring of leakages and prevent them using AI-based forecasting systems?</li>
 </ul>
 <p><strong>Related publications:</strong> <a href="https://www.pnas.org/doi/10.1073/pnas.2314600121">He et al. 2024, PNAS</a>; <a href="https://eartharxiv.org/repository/view/11628/">He et al., 2026, under review</a></p>
-<img src="/images/VLMR_fig1.png" alt="description" width="500">
-<img src="/images/vlmr_movie.gif" alt="description" width="430">
+
+<div style="clear:both;"></div>
 </blockquote>
 
 <blockquote style="background-color:#f5f7fa; border-left:4px solid #4CAF50; padding:15px 20px;">
