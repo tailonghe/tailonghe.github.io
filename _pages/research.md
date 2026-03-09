@@ -17,8 +17,7 @@ algorithm development to addressing scientific questions, such as:
 
 **Related publications:** [He et al. 2024, PNAS](https://www.pnas.org/doi/10.1073/pnas.2314600121); [He et al., 2026, under review](https://eartharxiv.org/repository/view/11628/).
 
-<img src="/images/VLMR_fig1.png" alt="description" width="500">
-<img src="/images/vlmr_movie.gif" alt="description" width="430">
+<img src="/images/VLMR_fig1.png" alt="description" width="500"><img src="/images/vlmr_movie.gif" alt="description" width="430">
 
 
 ### Inverse Modeling of Air Quality and GHG Emissions
