@@ -6,10 +6,8 @@ author_profile: true
 ---
 <blockquote style="background-color:#f5f7fa; border-left:4px solid #2196F3; padding:15px 20px; margin:0 0 15px 0; overflow:hidden;">
 <h3>Remote Sensing of Greenhouse Gas & Pollutant Point Sources</h3>
-
-<img src="/images/VLMR_fig1.png" alt="description" width="250" style="float:right; margin-left:20px; margin-bottom:10px;">
-<img src="/images/vlmr_movie.gif" alt="description" width="220" style="float:right; margin-left:10px; margin-bottom:10px;">
-
+<img src="/images/VLMR_fig1.png" alt="description" width="375" style="float:right; margin-left:20px; margin-bottom:10px;">
+<img src="/images/vlmr_movie.gif" alt="description" width="330" style="float:right; margin-left:10px; margin-bottom:10px;">
 <p>I use AI-driven methods and remote sensing to detect and quantify facility-level emissions of greenhouse gases and air pollutants. My work spans from algorithm development to addressing scientific questions, such as:</p>
 <ul>
   <li>What is the role of industrial point sources in driving methane's rise since the 1980s?</li>
