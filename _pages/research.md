@@ -7,7 +7,7 @@ author_profile: true
 <blockquote style="background-color:#f5f7fa; border-left:4px solid #2196F3; padding:15px 20px; margin-top:0; margin-left:-9999px; margin-right:-9999px; padding-left:9999px; padding-right:9999px; overflow:hidden;">
 <h3 style="margin-top:0; padding-top:0;">Remote Sensing of Greenhouse Gas & Pollutant Point Sources</h3>
 <div style="display:flex; gap:10px; margin-top:10px;">
-  <img src="/images/VLMR_fig1.png" alt="description" style="width:50%;">
+  <img src="/images/VLMR_fig1.png" alt="description" style="width:50%;"><img src="/images/vlmr_movie.gif" alt="description" style="width:50%;">
 </div>
 <p>I use AI-driven methods and remote sensing to detect and quantify facility-level emissions of greenhouse gases and air pollutants. My work spans from algorithm development to addressing scientific questions, such as:</p>
 <ul>
@@ -16,11 +16,6 @@ author_profile: true
   <li>Can we realize near real-time monitoring of leakages and prevent them using AI-based forecasting systems?</li>
 </ul>
 <p><strong>Related publications:</strong> <a href="https://www.pnas.org/doi/10.1073/pnas.2314600121">He et al. 2024, PNAS</a>; <a href="https://eartharxiv.org/repository/view/11628/">He et al., 2026, under review</a></p>
-
-<div style="display:flex; gap:10px; margin-top:10px;">
-  <img src="/images/vlmr_movie.gif" alt="description" style="width:50%;">
-</div>
-
 </blockquote>
 
 <blockquote style="background-color:#f5f7fa; border-left:4px solid #4CAF50; padding:15px 20px; margin-top:0; margin-left:-9999px; margin-right:-9999px; padding-left:9999px; padding-right:9999px; overflow:hidden;">
