@@ -19,19 +19,20 @@ author_profile: true
 </blockquote>
 
 <blockquote style="background-color:#f5f7fa; border-left:4px solid #4CAF50; padding:15px 20px; margin-top:0; overflow:hidden;">
-<h3>Inverse Modeling of Air Quality and GHG Emissions</h3>
+<h3 style="margin-top:0; padding-top:0;">Inverse Modeling of Air Quality and GHG Emissions</h3>
+<img src="/images/footnet_examples.png" alt="Footprint network examples" style="float:right; width:30%; margin-left:15px; margin-bottom:10px;"/>
 <p>I develop inverse modeling frameworks to quantify emissions of greenhouse gases and air pollutants by integrating observations from satellites, ground-based monitoring networks, and other measurement platforms. These methods provide top-down constraints on emissions and improve our understanding of their sources, variability, and impacts on atmospheric composition and air quality.</p>
 <p><strong>Related publications:</strong> He et al. 2022b, ACP; He and Dadheech et al. 2025a, GMD; He and Dadheech et al. 2025b, ACP</p>
 </blockquote>
 
 <blockquote style="background-color:#f5f7fa; border-left:4px solid #FF9800; padding:15px 20px; margin-top:0; overflow:hidden;">
-<h3>AI Emulators for Surrogate Modeling</h3>
+<h3 style="margin-top:0; padding-top:0;">AI Emulators for Surrogate Modeling</h3>
 <p>Transport and chemical modules are major computational bottlenecks in atmospheric chemistry models. I develop AI emulators as fast and accurate surrogates for these modules, with a focus on accelerating simulations of atmospheric chemistry relevant to air quality. These approaches enable substantial gains in computational efficiency while allowing models to run at higher spatial resolution or with expanded chemical complexity.</p>
 <p><strong>Related publications:</strong> He et al. 2022a, JGR: Atmospheres; Han and He et al. 2022, GMD; Han and He et al. 2023, GRL</p>
 </blockquote>
 
 <blockquote style="background-color:#f5f7fa; border-left:4px solid #F44336; padding:15px 20px; margin-top:0; overflow:hidden;">
-<h3>AI Applications for Earth Science</h3>
+<h3 style="margin-top:0; padding-top:0;">AI Applications for Earth Science</h3>
 <p>I am broadly interested in applying AI/ML to Earth system science, particularly in problems where physical constraints and data-driven approaches can be combined.</p>
 <p><strong>Related publications:</strong> Zemskova et al. 2022, Nature Communications</p>
 </blockquote>
