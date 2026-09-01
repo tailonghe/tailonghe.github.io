@@ -11,7 +11,7 @@ author_profile: true
 
 [19] L. Sun; Z. Jiang; Z. Chen; W. Han; M. Wang; X. Chen; **T.-L. He**, Y. Shen. [Potential of deep learning in inference of atmospheric pollutant emissions](https://www.sciencedirect.com/science/article/pii/S1352231026002360?via%3Dihub). <em>Atmospheric Environment</em>, 2026.
 
-[18] **T.-L. He**; D. J. Varon, S. Kondragunta, X. Ren, M. Cohen, B. J. Carroll, N. Malarich, J. Peischl, T. A. de Jong, J. Gerritsen, J. D. Maasakkers, D. H. Cusworth, R. Duren, S. Brown, C. Warneke, C. Sweeney, P. Stratton, A. Brewer, S. Baidar, E. Levin. Coordinated satellite, aircraft, and ground-based observations of a large transient methane release. accepted by PNAS. [Preprint](https://eartharxiv.org/repository/view/11628/)
+[18] **T.-L. He**; D. J. Varon, S. Kondragunta, X. Ren, M. Cohen, B. J. Carroll, N. Malarich, J. Peischl, T. A. de Jong, J. Gerritsen, J. D. Maasakkers, D. H. Cusworth, R. Duren, S. Brown, C. Warneke, C. Sweeney, P. Stratton, A. Brewer, S. Baidar, E. Levin. [Coordinated satellite, aircraft, and ground-based observations of a large transient methane release](https://www.pnas.org/doi/10.1073/pnas.2603595123). <em>PNAS</em>, 2026. [Preprint](https://eartharxiv.org/repository/view/11628/)
 
 ### 2025
 
