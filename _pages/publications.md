@@ -5,13 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Under review / in preparation
+
 **He, T.-L.**, et al. The GEO-Ring for monitoring global extreme methane releases. in prep.
+
+H. Zhou; **T.-L. He**; Z. Chen; Z. Jiang; Y. Shen. Attribution of Arctic Ozone Depletion to Meteorological Drivers: An Explainable Deep Learning Approach, 1980-2024. Under review
+
+C. Niu; **T.-L. He**; N. Dadheech; M. Li; X. Wang; Y. Zhang. STRIDE: A Physics-Guided Deep-Learning Emulator of STILT Source-Receptor Footprints for Regional N2O Source-Receptor Modeling. Under review
 
 ### 2026
 
 [19] L. Sun; Z. Jiang; Z. Chen; W. Han; M. Wang; X. Chen; **T.-L. He**, Y. Shen. [Potential of deep learning in inference of atmospheric pollutant emissions](https://www.sciencedirect.com/science/article/pii/S1352231026002360?via%3Dihub). <em>Atmospheric Environment</em>, 2026.
 
 [18] **T.-L. He**; D. J. Varon, S. Kondragunta, X. Ren, M. Cohen, B. J. Carroll, N. Malarich, J. Peischl, T. A. de Jong, J. Gerritsen, J. D. Maasakkers, D. H. Cusworth, R. Duren, S. Brown, C. Warneke, C. Sweeney, P. Stratton, A. Brewer, S. Baidar, E. Levin. [Coordinated satellite, aircraft, and ground-based observations of a large transient methane release](https://www.pnas.org/doi/10.1073/pnas.2603595123). <em>PNAS</em>, 2026. [Preprint](https://eartharxiv.org/repository/view/11628/)
+
+&emsp;&emsp;**<em>Media: [MIT AeroAstro](https://aeroastro.mit.edu/news-impact/coordinated-satellite-aircraft-and-ground-based-observations-of-a-large-transient-methane-release/)</em>**<br /><br />
+
 
 ### 2025
 
@@ -34,7 +43,8 @@ author_profile: true
 
 
 [10] **He, T.-L.**; R. J. Boyd; D. J. Varon; A. J. Turner. [Increased methane emissions from oil and gas following the Soviet Union’s collapse](https://www.pnas.org/doi/10.1073/pnas.2314600121). <em>Proc. Natl. Acad. Sci.</em>, 121 (12) e2314600121, 2024.<br />
-**<em>Press release:</em>** [UW News](https://www.washington.edu/news/2024/03/12/ai-analysis-of-historical-satellite-images-show-ussr-collapse-in-1990s-increased-methane-emissions-despite-lower-oil-and-gas-production/),  [EurekAlert!](https://www.eurekalert.org/news-releases/1037434),  [ScienceDaily](https://www.sciencedaily.com/releases/2024/03/240312221011.htm),  [Phys](https://phys.org/news/2024-03-ai-analysis-satellite-images-1990s.html)<br />
+
+&emsp;&emsp;**<em>Media:** [UW News](https://www.washington.edu/news/2024/03/12/ai-analysis-of-historical-satellite-images-show-ussr-collapse-in-1990s-increased-methane-emissions-despite-lower-oil-and-gas-production/),  [EurekAlert!](https://www.eurekalert.org/news-releases/1037434),  [ScienceDaily](https://www.sciencedaily.com/releases/2024/03/240312221011.htm),  [Phys](https://phys.org/news/2024-03-ai-analysis-satellite-images-1990s.html)</em><br /><br />
 
 [9] Wang, M.; X. Chen; **T.-L. He**; D. B. A. Jones; J. Liu; Y. Shen. [Meteorological and anthropogenic drivers of surface ozone change in the North China Plain in 2015-2021](https://doi.org/10.1016/j.scitotenv.2023.167763), <em>Science of the Total Environment</em>, 2024.<br />
 
